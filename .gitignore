@@ -1,0 +1,6 @@
+package-lock.json
+site/
+node_modules/
+*.swp
+.ipynb_checkpoints
+docs/earthdata.md
