@@ -1,29 +1,44 @@
-site_name: learning-resources
+site_name: ICESat-2 Hackweek Learning Resources
 nav:
-    - Home: index.md
-    - Introduction to Github: github.md
-    - Introduction to Conda: conda.md
-    - Introduction to Numpy: numpy.md
-    - Introduction to Pandas: pandas.md
-    - GEE Access and Javscript Tips: gee_javascript.md
-    - Project Roles and Responsibilities: project.md
-    - Vocabulary and Acronyms: VocabAcronyms2020.md
-    - How to Contribute: howtocontribute.md
+    - Overview: index.md
+    - Conduct:
+        - Code of Conduct: conduct/conduct.md
+        - Learning Community: conduct/community.md
+        - Virtual Etiquette: conduct/etiquette.md
+    - Logistics:
+        - Today's Activitites: logistics/today.md
+        - Hackweek Schedule: logistics/schedule.md
+        - Learning Technologies: logistics/technology.md
+    - Tutorials:
+        - Introduction to GitHub: tutorials/github.md
+        - Introduction to Conda: tutorials/conda.md
+        - Introduction to Numpy: tutorials/numpy.md
+        - Introduction to Pandas: tutorials/pandas.md
+    - Projects:
+        - Project Roles and Responsibilities: projects/project.md
+    - Reference:
+        - Vocabulary and Acronyms: reference/VocabAcronyms.md
+    - About:
+        - How to Contribute: about/howtocontribute.md
 theme: 
-    name: readthedocs
+    name: rtd-dropdown
+    collapse_by_default: false
     highlightjs: true
 plugins:
     - search
     - markdownextradata
 extra:
   hackweek:
-    name: Waterhackweek
-    web_url: https://waterhackweek.github.io
-    slack_url: https://waterhackweek.slack.com
-    github_org_url: https://github.com/waterhackweek
+    name: ICESat-2 hackweek
+    web_url: https://icesat-2hackweek.github.io
+    slack_url: https://icesat-2hackweek.slack.com
+    github_org_url: https://github.com/icesat-2hackweek
     pangeo_url: https://aws-uswest2.pangeo.io
     cyberseminar_url: https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series
     admin_contact: Jane Koh
 markdown_extensions:
   - admonition
-repo_url: https://github.com/waterhackweek/learning-resources
+repo_url: https://github.com/icesat-2hackweek/learning-resources
+
+extra_css:
+    - css/extra.css

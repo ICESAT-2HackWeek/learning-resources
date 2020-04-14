@@ -1,66 +1,43 @@
-# Hackweek Introduction
+# Overview
 
-### Overview
+Learning resources for the 2020 ICESat-2 Virtual Hackweek
 
-Welcome to the [{{ hackweek.name }}]({{ hackweek.web_url }}) hackweek! Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://arxiv.org/abs/1711.00028) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
+---
+
+## Welcome!
+
+Welcome to the [{{ hackweek.name }}]({{ hackweek.web_url }})! Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://arxiv.org/abs/1711.00028) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
 
 ![hackweek-mission](img/hackweek-mission.png)
 
-This preliminary tutorial is one that we would like you to complete before arriving to the hackweek. The purpose is to learn about how we plan to work with various software tools and how you can best prepare for our event. We would like everyone works through this tutorial so that we can make the best use of our time together in person. 
 
-### What is the format of this event?
+## Why have a virtual hackweek?
 
-Here is a general roadmap of our event:
+The 2020 COVID19 pandemic has required us to rethink and redesign how we offer hackweeks. Community building, networking and peer learning are core elements of our hackweek mission. As an organizing team we are exploring new ways that we can still achieve these goals in a virutal hackweek. We invite all participants to join us as we experiment in various ways, and to recognize that as a community we are all figuring this out as we go along.
 
-* we begin the hackweek with a review of our code of conduct, and we build a set of guidelines for co-creating a positive and welcoming learning environment
-* each day will include some combination of tutorials, short presentations and/or open project time / hacking.
-* we will guide participants through the formation of groups early in the event
-*we'll check-in with project teams on a regular basis to find what's working and where challenges lie.
-* there will be opportunities for peer learning and open tutorials on topics of most interest to the group
-* participants will be invited to present their work at the end of the event
+## Roadmap
 
-### Will my laptop work for this hackathon?
+This documentation will act as your primary resource for navigating the logistics, scheduling, tutorials and project work within the hackweek. Here is a general roadmap of our event:
 
-All participants will be required to have their own laptop. The absolute minimum requirement is any laptop with a functioning web browser so that you can access our shared cloud computing resources. We will also teach you to install software on your own computer. For that we recommend the following:
+* **Introductory Session**: We will begin our virtual time together with an introductory zoom call during which we will share our [Code of Conduct](conduct/conduct.md) and intentions for a positive [Learning Community](conduct/community.md). We will take some time to connect with each other with some facilitated conversations. We will describe the [Virtual Technology](logistics/technology.md) that we will be using, and discuss [virtual etiquette](conduct/etiquette.md).
+* **Pre-event Tutorials**: We will work through tutorials on [Git/GitHub](tutorials/github.md) and [iPtyhon/Jupyter](tutorials/jupyter.md).
+* **Project Preparation**: Just before our main hacking event, we will gather together virutally to pitch project ideas and begin to form project teams. We will also provide guidance on project expectations and on how to form healthy team interactions in a virtual setting.
+* **Hack-days**: Our core event will be offered during the same week we intended to run our in-person hackweek, but will be scaled back to 3 days (June 15-17) and the duration will be shorter. We will use a virtual open-space platform that enables participants to come in and out of groups as their time permits. 
+* **Surveys and Feedback**: Immediately after the event we will do a group debriefing session: What went well? What could be improved next time?
+* **Post-event Tutorials**: If time and energy permit, we will continue to co-create tutorials and educational opportunities after the event, especially for those who wish to dig into more advanced topics. We will try to offer regular office hours to follow up on core concepts. We can also explore ways to keep momentum going on projects.
 
-- Windows Vista or newer, MAC OS X 10.7+, or Linux (Ubuntu, RedHat and others; CentOS 5+)
-- 32-bit or 64-bit
-- Minimum 3 GB disk space to download and install software
+## General Structure
 
-If you do not have a laptop, please contact us and we might be able to loan you one during the event.
+As an organizing team, our primary commit to participants is to create inclusive, positive learning spaces that are as accessible to as many participants as possible. Here are some ways we plan to do this:
 
-### Will I need to learn a specific programming language to participate?
-
-We welcome all participants regardless of their programming background. In order to teach our content in a consistent way we need to select one programming languge. We have chosen Python because it is free and open source, and has many libraries suitable for efficient manipulation of a variety of different types of data. 
-
-### What can I do in advance to prepare?
-
-We require all participants to work through the following lessons in advance of our event. The lessons are brief and will ensure that we are all set up and ready to work when we arrive.
-
-#### Setting up your laptop and getting access to computing resources
-
-* [Introduction to Github](github.md): setting up a GitHub account
-<!--* [Lesson 2](jupyterhub.md): connecting to our shared cloud computing environment-->
-* [Introduction to Conda](conda.md): installing Python on your laptop
-<!--* [Lesson 4](earthdata.md): getting a NASA Earthdata login-->
-* [GEE Access and Javascript Tips](gee_javascript.md): setting up Google Earth Engine account
-
-#### Learning Python Basics
-
-Self-working notebooks to understand practical aspects of Numpy and Pandas
-
-* [Introduction to Numpy](numpy.md)
-* [Introduction to Pandas](pandas.md)
-
-#### Hackweek Alumni Papers
-
-Here are some papers for reference, written by Waterhackweek Alumni:
-
-[Mapping three decades of annual irrigation across the US High Plains Aquifer using Landsat and Google Earth Engine](https://www.sciencedirect.com/science/article/abs/pii/S0034425719304195)
-
-[High-resolution mapping of global surface water and its long-term changes](https://www.nature.com/articles/nature20584?cacheBust=1509887195761,%20https://www.nature.com/articles/s41586-019-1848-1)
-
-[Performance of Landsat-8 and Sentinel-2 surface reflectance products for river remote sensing retrievals of chlorophyll-a and turbidity](https://www.sciencedirect.com/science/article/abs/pii/S0034425719300288)
-
-### How do I ask questions about the Hackweek?
-If you have technical or general questions about the Hackweek, we are here to help. First, you can use the General channel on [Slack]({{ hackweek.slack_url }}). Second, we have Cyberseminars scheduled on specific days, for which you can find the schedule [here]({{ hackweek.cyberseminar_url }}).
+* we will teach our core tutorials in two stages:
+    1. we will offer a 90 minute training that will be recorded. Instructors will work through examples and there will be some interactive work. Participants unable to attend the live training can work through content at their own pace. 
+    2. each tutorial will be followed up one week later with question-and-answer sessions at two different times. Times will be chosen to optimize attendance from as many different time zones as possible.  
+* all tutorials will be created using interactive coding examples in Jupyter Notebooks
+* all participants will have continuous access to a shared, web-accessible computational environment through the duration of the event.
+* each zoom session will be moderated by at least two hackweek organizers. A professional facilitator will assist in designing and moderating many sessions, including the virtual project work.
+* we will offer individual and group support mechanisms to help navigate technical and social challenges as they arise
+* during the hack-days (June 15-17) all particiants will have 24/7 access to a secure virtual open space. People can come in and out of these rooms as needed. Each day we will have two virtual stand-ups during two different time zones to accommodate as many people as possible.
+* we will check-in frequently with groups and individuals through virtual stand-ups, anonymous polling and other mechanisms in order to engage with people on all levels of proficiency
+* we will have zoom spaces dedicated to social exchanges, music, art and other restorative activities
+* we will take breaks and encourage self-care and rest 

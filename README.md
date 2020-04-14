@@ -4,9 +4,7 @@ This repository contains a curriculum of tutorials to get you ready to attend an
 
 ## Contact
 
-For more eScience hackweek information contact [Dr. Anthony Arendt](mailto:aarendt@uw.edu)
-
-For Waterhackweek information contact [Dr. Christina Bandaragoda](mailto:cband@uw.edu).
+For more eScience hackweek information contact [Dr. Anthony Arendt](mailto:aarendt@uw.edu).
 
 ### Technical notes
 
