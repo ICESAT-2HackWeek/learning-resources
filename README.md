@@ -1,4 +1,4 @@
-# Waterhackweek Learning Resources 
+# ICESat-2 Cryosphere Hackweek Learning Resources 
 
 This repository contains a curriculum of tutorials to get you ready to attend an eScience Institute sponsored hackweek. This version has examples for Waterhackweek 2020 and may include other examples from the ICESat-2 hackweek (November 2019).  This is a template that can be adopted to any other hackweek. Find out more at [HackWeek-Toolkit](https://github.com/uwescience/HackWeek-Toolkit) and [HackWeek-Tutorials](https://github.com/uwescience/hackweek-preliminary-tutorials).
 
