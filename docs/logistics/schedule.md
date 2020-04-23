@@ -1,9 +1,7 @@
 # Hackweek Schedule
 
 
-## May 4: Introductory Session
-
-*time TBD: offer in 2 time zones?*
+## Thursday May 21 (9-10:30am PDT): Introductory Session
 
 **Purpose**
 
@@ -14,7 +12,11 @@
 * Setting norms and agreeing on virtual etiquette
 
 
-## May 11: Tutorial #1: Intro to the ICESat-2 mission; basic tools
+## Thursday May 28 (9-10:30am PDT): Tutorial #1: Python, iPython, and Jupyter
+
+## Monday June 1 (9-10:30am PDT): Tutorial #2: Git and GitHub
+
+## Thursday June 4 (9-10:30am PDT): ICESat-2 Mission: Satellite, Sensor, and Data
 
 **Purpose**
 
@@ -23,15 +25,9 @@
 * getting connected to Pangeo
 * acquiring an Earthdata login
 
-## May 18: Tutorial #2: iPython and Jupyter
+## Monday June 8 (9-10:30am PDT): Open science and intro to data access
 
-## May 25: Tutorial #3: Git and GitHub
-
-## June 1: Open science and intro to data access
-
-## June 8: ICESat-2 data basics: filtering, etc
-
-## June 12: Project Formation
+## Thursday June 11: Project Group Formation
 
 | Activity |  Time           | Structure  |
 | --------- | ------------- | ----- |
@@ -40,27 +36,36 @@
 | Project pitching | Time Zone #2 | open-spaces; shift-and-share |
 
 
-## June 15: Hack-day #1
+## Monday June 15 (9am-1pm PDT): Hack-day #1
 
 | Activity |  Time           | Structure  |
 | --------- | ------------- | ----- |
+| tutorial session (ICESat-2 data products (land ice and sea ice tracks)) | 9am-10:30am PDT  | Zoom  |
 | hacking  | all day | open-space technology |
-| group gathering | Time Zone #1 | virtual stand-up |
-| group gathering | Time Zone #2 | virtual stand-up |
+| group gathering | 11am PDT | virtual stand-up |
+| group gathering | option second time | virtual stand-up |
 
 
-## June 16: Hack-day #2
+## Tuesday June 16 (9am-1pm PDT): Hack-day #2
 
 | Activity |  Time           | Structure  |
 | --------- | ------------- | ----- |
+| tutorial session (data filtering and visualization) | 9am-10:30am PDT  | Zoom  |
 | hacking  | all day | open-space technology |
-| group gathering | Time Zone #1 | virtual stand-up |
-| group gathering | Time Zone #2 | virtual stand-up |
+| group gathering | 11am PDT | virtual stand-up |
+| group gathering | option second time | virtual stand-up |
 
-## June 17: Hack-day #3
+## Wednesday June 17 (9am-1pm PDT): Hack-day #3
 
 | Activity |  Time           | Structure  |
 | --------- | ------------- | ----- |
+| tutorial session (advanced topics - TBD) | 9am-10:30am PDT  | Zoom  |
 | hacking  | all day | open-space technology |
-| group gathering | Time Zone #1 | virtual stand-up |
-| group gathering | Time Zone #2 | virtual stand-up |
+| group gathering | 11am PDT | virtual stand-up |
+| group gathering | option second time | virtual stand-up |
+
+## Thursday June 18 (9am-1pm PDT): Hack-day #4 and Presentations
+| Activity |  Time           | Structure  |
+| --------- | ------------- | ----- |
+| hacking  | 9am-11:30am PDT | open-space technology |
+| group presentation  | 12pm PDT  | Zoom presentations |
