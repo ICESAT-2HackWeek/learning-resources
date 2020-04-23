@@ -31,8 +31,8 @@ This documentation will act as your primary resource for navigating the logistic
 As an organizing team, our primary commit to participants is to create inclusive, positive learning spaces that are as accessible to as many participants as possible. Here are some ways we plan to do this:
 
 * we will teach our core tutorials in two stages:
-    1. we will offer a 90 minute training that will be recorded. Instructors will work through examples and there will be some interactive work. Participants unable to attend the live training can work through content at their own pace. 
-    2. each tutorial will be followed up one week later with question-and-answer sessions at two different times. Times will be chosen to optimize attendance from as many different time zones as possible.  
+    1. we will offer a 60-90 minute training that will be recorded. Instructors will work through examples and there will be some interactive work. Participants unable to attend the live training can work through content at their own pace. 
+    2. each tutorial will be followed up one week later with question-and-answer sessions. We will try to host several sessions per tutorial, depending on instructor availabilty. Peer-learning will be encouraged, and each session will be moderated.
 * all tutorials will be created using interactive coding examples in Jupyter Notebooks
 * all participants will have continuous access to a shared, web-accessible computational environment through the duration of the event.
 * each zoom session will be moderated by at least two hackweek organizers. A professional facilitator will assist in designing and moderating many sessions, including the virtual project work.
