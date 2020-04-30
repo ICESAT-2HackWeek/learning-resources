@@ -9,9 +9,14 @@ nav:
         - Today's Activitites: logistics/today.md
         - Hackweek Schedule: logistics/schedule.md
         - Learning Technologies: logistics/technology.md
+    - Preliminary Steps:
+        - GitHub account: preliminary/github.md
+        - JupyterHub connection: preliminary/jupyterhub.md
+        - Python installation: preliminary/conda.md
+        - Earthdata login: preliminary/earthdata.md
     - Tutorials:
         - Introduction to GitHub: tutorials/github.md
-        - Introduction to Conda: tutorials/conda.md
+        - Introduction to Jupyter: tutorials/jupyter.md
         - Introduction to Numpy: tutorials/numpy.md
         - Introduction to Pandas: tutorials/pandas.md
     - Projects:
@@ -34,7 +39,6 @@ extra:
     slack_url: https://icesat-2hackweek.slack.com
     github_org_url: https://github.com/icesat-2hackweek
     pangeo_url: https://aws-uswest2.pangeo.io
-    cyberseminar_url: https://www.cuahsi.org/education/cyberseminars/waterhackweek-cyberseminar-series
     admin_contact: Jane Koh
 markdown_extensions:
   - admonition

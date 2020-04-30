@@ -21,18 +21,10 @@ We require all participants to work through the following lessons in advance of 
 
 ## Setting up your laptop and getting access to computing resources
 
-* [Introduction to Github](github.md): setting up a GitHub account
-<!--* [Lesson 2](jupyterhub.md): connecting to our shared cloud computing environment-->
-* [Introduction to Conda](conda.md): installing Python on your laptop
-<!--* [Lesson 4](earthdata.md): getting a NASA Earthdata login-->
-* [GEE Access and Javascript Tips](gee_javascript.md): setting up Google Earth Engine account
-
-## Learning Python Basics
-
-Self-working notebooks to understand practical aspects of Numpy and Pandas
-
-* [Introduction to Numpy](numpy.md)
-* [Introduction to Pandas](pandas.md)
+* [Introduction to Github](../preliminary/github.md): setting up a GitHub account
+* [Connecting to JupyterHub](../preliminary/jupyterhub.md): connecting to our shared cloud computing environment-->
+* [Introduction to Conda](../preliminary/conda.md): installing Python on your laptop
+* [NASA Earthdata](../preliminary/earthdata.md): getting a NASA Earthdata login-->
 
 ## How do I ask questions about the Hackweek?
-If you have technical or general questions about the Hackweek, we are here to help. First, you can use the General channel on [Slack]({{ hackweek.slack_url }}). Second, we have Cyberseminars scheduled on specific days, for which you can find the schedule [here]({{ hackweek.cyberseminar_url }}).
+If you have technical or general questions about the Hackweek, we are here to help. First, you can use the General channel on [Slack]({{ hackweek.slack_url }}). 

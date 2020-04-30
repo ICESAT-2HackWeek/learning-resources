@@ -27,16 +27,3 @@ Landlab – a Python-based modeling environment that allows scientists and stude
 
 ## Acronyms
 
-__WHW__: Waterhackweek :)
-
-__CUAHSI__: The Consortium of Universities for the Advancement of Hydrologic Science, Inc. is a 501(c) 3 research organization representing more than 100 U.S. universities and international water science-related organizations.  In addition to HydroShare NSF PI and community support, CUAHSI will maintain, develop and support HydroShare infrastructure and users. 
-
-__XSEDE__: The Extreme Science and Engineering Discovery Environment (XSEDE) is a single virtual system that scientists can use to interactively share computing resources, data and expertise.
-
-__CyberGIS__  - a center at the University of Illinois at Urbana-Champaign for Advanced Digital and Spatial Studies. They support big geospatial data solutions in many areas of scholarship, ranging from engineering and science to the humanities.
-
-__AGU__: American Geophysical Union
-
-__NCSA__ - National Center for Supercomputing Applications at University of Illinois at Urbana-Champaign.
-
-__ROGER__ - Resourcing Open Geospatial Education and Research and the Father of GIS, Roger Tomlinson) is the world's first-ever CyberGIS Supercomputer designed especially for computationally intensive geospatial data processing and analysis. ROGER is managed by NCSA at the CyberGIS Center for Advanced Digital and Spatial Studies
