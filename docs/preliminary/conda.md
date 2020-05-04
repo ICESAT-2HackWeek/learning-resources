@@ -24,7 +24,7 @@ We recommend to download the Python 3 version of Miniconda. You can still create
 When installing, you will be asked if you wish to make the Anaconda Python your default Python for Windows.
 If you do not have any other installation that is a good option. If you want to keep multiple versions of python on your machine (e.g. ESRI-supplied python, or 64 bit versions of Anaconda), then don't select the option to modify your path or modify your windows registry settings.
 
-##### Linux and OSX
+##### Linux and OS X
 You may follow manual steps from [here](http://conda.pydata.org/miniconda.html) similar to the instructions on Windows (see above). Alternatively, you can execute these commands on a terminal shell (in this case, the bash shell):
 
 ```bash
@@ -45,10 +45,10 @@ conda update conda --yes
 
 [Anaconda](https://www.anaconda.com/distribution/) is a data science platform that comes with a lot of packages. At its core, Anaconda uses the conda package management system.
 
-The list of packages included can be found [*here*](https://docs.anaconda.com/anaconda/packages/pkg-docs)
+The list of packages included can be found [*here*](https://docs.anaconda.com/anaconda/packages/pkg-docs).
 
 1. To install Anaconda, please click on the link below for your operating system, and follow the instructions on the [site](https://www.anaconda.com/download/).
-2. Once Anaconda installation step is finished run `python` in the command line to test if Anaconda is installed correctly. **Note: For windows, please use the Anaconda prompt as the command line. It should be installed with your installation of Anaconda**
+2. Once Anaconda installation step is finished run `python` in the command line to test if Anaconda is installed correctly. **Note: For windows, please use the Anaconda prompt as the command line. It should be installed with your installation of Anaconda**.
 If Anaconda is installed correctly, you should have this prompt, which emphasizes **Anaconda**:
 
 ```bash
@@ -59,7 +59,7 @@ Python 3.7.3|Anaconda custom (x86_64)| (default, Mar 27 2019, 22:11:17)
 
 ### Installing Python
 
-We will be using Python 3.6 or 3.7 during the week (either will work). Since Anaconda (on Linux) expects you to work in the "bash" shell, if this is not already your default shell, you need to set it to be so (use the "chsh -s /bin/bash" command to change your default shell to bash) or just run an instance of bash from the command line before issuing "Conda" commands (/bin/bash or where it is located on your system).
+We will be using Python 3.6 or 3.7 during the week (either will work). Since Anaconda (on Linux) expects you to work in the `bash` shell, if this is not already your default shell, you need to set it to be so (use the `chsh -s /bin/bash` command to change your default shell to bash) or just run an instance of bash from the command line before issuing "Conda" commands (`/bin/bash` or where it is located on your system).
 
 If you are already familiar with Python 2.7, you can take a look at the syntax differences [here](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html), but the main point to remember is to put the print statements in parentheses:
 ```python
