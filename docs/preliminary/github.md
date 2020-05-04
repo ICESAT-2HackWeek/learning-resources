@@ -36,7 +36,7 @@ We have created a GitHub organization called [{{ hackweek.name }}]({{ hackweek.g
 
 As you'll learn in the next lesson, we will use the [{{ hackweek.name }}]({{ hackweek.github_org_url}}) GitHub organization as a way to manage access to our cloud computing resources. In order for this to work each person must have public, rather than private membership in the ICESat-2hackweek organization.
 
-First, navigate to the "People" tab on the [{{ hackweek.name }}]({{ hackweek.github_org_url}}) GitHub organization:
+First, navigate to the "People" tab on the [{{ hackweek.name }}]({{ hackweek.github_org_url}}) GitHub organization and find yourself:
 
 ![people-tab](../img/private-github.png)
 
