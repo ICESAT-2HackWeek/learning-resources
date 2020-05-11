@@ -68,7 +68,7 @@ When you are finished working for the day it is important to explicitly log out 
 
 To stop the server, navigate to "Hub --> Control Panel" and then click the "Stop my server" button:
 
-![shutting-down](img/stop-server.png)
+![shutting-down](../img/stop-server.png)
 
 !!! warning "logging out"
     Logging out will **NOT** cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.

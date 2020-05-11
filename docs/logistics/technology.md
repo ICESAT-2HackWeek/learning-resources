@@ -22,9 +22,9 @@ We require all participants to work through the following lessons in advance of 
 ## Setting up your laptop and getting access to computing resources
 
 * [Introduction to Github](../preliminary/github.md): setting up a GitHub account
-* [Connecting to JupyterHub](../preliminary/jupyterhub.md): connecting to our shared cloud computing environment-->
+* [Connecting to JupyterHub](../preliminary/jupyterhub.md): connecting to our shared cloud computing environment
 * [Introduction to Conda](../preliminary/conda.md): installing Python on your laptop
-* [NASA Earthdata](../preliminary/earthdata.md): getting a NASA Earthdata login-->
+* [NASA Earthdata](../preliminary/earthdata.md): getting a NASA Earthdata login
 
 ## How do I ask questions about the Hackweek?
 If you have technical or general questions about the Hackweek, we are here to help. First, you can use the General channel on [Slack]({{ hackweek.slack_url }}). 
