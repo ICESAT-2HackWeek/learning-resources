@@ -8,7 +8,7 @@
 * Help people get connected
 * Explain how will this be different from an in-person event
 * Technology overview and check-in on accessibility
-* Setting norms and agreeing on virtual etiquette
+* Code of conduct and setting norms of positive learning environments
 
 ### 11:00 AM to 12:30 PM PDT: ICESat-2 Mission: Satellite, Sensor, and Data
 
@@ -49,37 +49,35 @@
 * how will we break up into project groups on Monday
 * overview of existing list of projects
 
-## Monday June 15 (9am-1pm PDT): Hack-day #1
+## Monday June 15: Hack-day #1
 
 | Activity |  Time           | Structure  |
 | --------- | ------------- | ----- |
-| tutorial session: Open science and intro to ICESat-2 data access | 9:00-9:30 am PDT  | Zoom  |
-| tutorial session: Data filtering and visualization, Part 1 | 9:30-10:30 am PDT  | Zoom  |
-| project formation | 11:30 am - 12:00 PM PDT | project formation |
-| hacking  | all day | open-space technology |
+| tutorial session: Open science and intro to ICESat-2 data access | 9:00-9:30 AM PDT  | Zoom  |
+| tutorial session: Data filtering and visualization, Part 1 | 9:30-10:30 AM PDT  | Zoom  |
+| project formation | 11:30 AM - 12:00 PM PDT | project formation |
+| hacking  | after 12:00 PM  PDT | open-space technology, meeting as needed |
 
-## Tuesday June 16 (9am-1pm PDT): Hack-day #2
+## Tuesday June 16: Hack-day #2
 
 | Activity |  Time           | Structure  |
 | --------- | ------------- | ----- |
 | tutorial session: data filtering and visualization, Part 2 | 9:00-9:30 am PDT  | Zoom |
 | tutorial session (concurrent) Land ice applications | 9:30-10:30 am PDT  | Zoom |
 | tutorial session (concurrent) Sea ice applications | 9:30-10:30 am PDT  | Zoom |
-| hacking  | all day | open-space technology |
-| group gathering | 11 am PDT | virtual stand-up |
-| group gathering | option second time | virtual stand-up |
+| hacking  | after 11:00 AM  PDT | open-space technology, meeting as needed |
+| group gathering | 1:00 PM PDT | Zoom virtual stand-up |
 
-## Wednesday June 17 (9am-1pm PDT): Hack-day #3
+## Wednesday June 17: Hack-day #3
 
 | Activity |  Time           | Structure  |
 | --------- | ------------- | ----- |
-| tutorial session (advanced topics - TBD) | 9:00-10:30 am PDT  | Zoom  |
-| hacking  | all day | open-space technology |
-| group gathering | 11am PDT | virtual stand-up |
-| group gathering | option second time | virtual stand-up |
+| tutorial session (advanced topics - (Machine learning, others TBD) | 9:00-10:30 am PDT  | Zoom  |
+| hacking  | after 11:00 AM  PDT | open-space technology, meeting as needed |
+| group gathering | 1:00 PM PDT | Zoom virtual stand-up |
 
-## Thursday June 18 (9am-1pm PDT): Hack-day #4 and Presentations
+## Thursday June 18: Hack-day #4 and Presentations
 | Activity |  Time           | Structure  |
 | --------- | ------------- | ----- |
-| hacking  | 9:00-11:30 am PDT | open-space technology |
-| group presentation  | 12:00 pm PDT  | Zoom presentations |
+| hacking  | 9:00-11:30 AM PDT | open-space technology |
+| group presentations  | 12:00 - 2:00 PM PDT  | Zoom presentations |
