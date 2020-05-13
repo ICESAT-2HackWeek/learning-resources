@@ -2,7 +2,7 @@
 
 ## Project Lead
 
-The project scientist will lead a Waterhackweek [project](https://waterhackweek.github.io/wiki/project_guidelines.html). In this role, the project scientist will: 
+The project scientist will lead a hackweek [project](https://waterhackweek.github.io/wiki/project_guidelines.html). In this role, the project scientist will: 
 
 * pitch project and interact with all interested participants during networking.
 * coordinate team building with other instructors to an optimal size of 4-7 total participants per team.  
