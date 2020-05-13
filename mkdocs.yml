@@ -26,7 +26,7 @@ nav:
     - About:
         - How to Contribute: about/howtocontribute.md
 theme: 
-    name: rtd-dropdown
+    name: readthedocs
     collapse_by_default: false
     highlightjs: true
 plugins:
