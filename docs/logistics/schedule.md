@@ -18,6 +18,8 @@
     * overview of product levels, names and potential science uses
     * release schedule and products yet to be posted
 
+________________________________________________________
+
 ## Wednesday June 10
 
 ### 9:00 to 10:30 AM PDT: Tutorial #1: Git and GitHub
@@ -29,6 +31,8 @@
 
 * introduction to our shared computing environment
 * principles of open science 
+
+________________________________________________________
 
 ## Friday June 12 
 
@@ -49,35 +53,48 @@
 * how will we break up into project groups on Monday
 * overview of existing list of projects
 
+________________________________________________________
+
 ## Monday June 15: Hack-day #1
 
-| Activity |  Time           | Structure  |
-| --------- | ------------- | ----- |
-| tutorial session: Open science and intro to ICESat-2 data access | 9:00-9:30 AM PDT  | Zoom  |
-| tutorial session: Data filtering and visualization, Part 1 | 9:30-10:30 AM PDT  | Zoom  |
-| project formation | 11:30 AM - 12:00 PM PDT | project formation |
-| hacking  | after 12:00 PM  PDT | open-space technology, meeting as needed |
+| Activity |  Time           | 
+| --------- | ------------- |
+| tutorial session: Open science and intro to ICESat-2 data access | 9:00-9:30 AM PDT  | 
+| tutorial session: Data filtering and visualization, Part 1 | 9:30-10:30 AM PDT  | 
+| project formation | 11:30 AM - 12:00 PM PDT | 
+| hacking (instructors available) | 1:00 - 3:00 PM  PDT | 
+
+Hacking can continue into other times depending on team availability.
+
+________________________________________________________
 
 ## Tuesday June 16: Hack-day #2
 
-| Activity |  Time           | Structure  |
-| --------- | ------------- | ----- |
-| tutorial session: data filtering and visualization, Part 2 | 9:00-9:30 am PDT  | Zoom |
-| tutorial session (concurrent) Land ice applications | 9:30-10:30 am PDT  | Zoom |
-| tutorial session (concurrent) Sea ice applications | 9:30-10:30 am PDT  | Zoom |
-| hacking  | after 11:00 AM  PDT | open-space technology, meeting as needed |
-| group gathering | 1:00 PM PDT | Zoom virtual stand-up |
+| Activity |  Time           |
+| --------- | ------------- | 
+| tutorial session: data filtering and visualization, Part 2 | 9:00-9:30 am PDT  |
+| tutorial session (concurrent) Land ice applications | 9:30-10:30 am PDT  |
+| tutorial session (concurrent) Sea ice applications | 9:30-10:30 am PDT  | 
+| Virtual stand-up | 11:30 AM PDT | 
+| hacking (instructors available) | 12:30 - 3:00 PM  PDT | 
+
+Hacking can continue into other times depending on team availability.
+
+________________________________________________________
 
 ## Wednesday June 17: Hack-day #3
 
-| Activity |  Time           | Structure  |
-| --------- | ------------- | ----- |
-| tutorial session (advanced topics - (Machine learning, others TBD) | 9:00-10:30 am PDT  | Zoom  |
-| hacking  | after 11:00 AM  PDT | open-space technology, meeting as needed |
-| group gathering | 1:00 PM PDT | Zoom virtual stand-up |
+| Activity |  Time           | 
+| --------- | ------------- | 
+| tutorial session (advanced topics - (Machine learning, others TBD) | 9:00-10:30 am PDT  |
+| Virtual stand-up | 11:30 AM PDT | 
+| hacking (instructors available) | 12:30 - 3:00 PM  PDT | 
+
+Hacking can continue into other times depending on team availability.
+________________________________________________________
 
 ## Thursday June 18: Hack-day #4 and Presentations
-| Activity |  Time           | Structure  |
-| --------- | ------------- | ----- |
-| hacking  | 9:00-11:30 AM PDT | open-space technology |
-| group presentations  | 12:00 - 2:00 PM PDT  | Zoom presentations |
+| Activity |  Time           | 
+| --------- | ------------- |
+| hacking  | 9:00-11:30 AM PDT | 
+| group presentations  | 12:00 - 2:00 PM PDT  | 
