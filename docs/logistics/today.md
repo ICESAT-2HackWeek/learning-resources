@@ -1,9 +1,5 @@
 # Daily ICESat-2 Hackweek Page
 
-## Date: Friday, April 10, 2020
-
-### Today's Lesson
-
-Today we will be working on ...
+During the event, this page will be updated each day with content specific to that day.
 
 

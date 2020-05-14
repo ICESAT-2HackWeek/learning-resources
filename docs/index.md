@@ -1,19 +1,24 @@
-# Overview
+# Welcome!
 
-Learning resources for the 2020 ICESat-2 Virtual Hackweek
+Welcome to the {{ hackweek.name }}! We look forward to working with you in building an open and collaborative community as we explore the cryosphere using ICESat-2 datasets.
 
----
+## Quick Links
 
-## Welcome!
+Here are some quick links to material for our upcoming June 2020 event:
 
-Welcome to the [{{ hackweek.name }}]({{ hackweek.web_url }})! Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://arxiv.org/abs/1711.00028) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
+* [hackweek schedule](logistics/schedule.md): overview of our planned virtual events spanning June 8 - 18, 2020.
+* [preliminary work](logistics/technology.md): everything you need to know to be ready for the hackweek.
+
+## What is a hackweek?
+
+Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://arxiv.org/abs/1711.00028) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
 
 ![hackweek-mission](img/hackweek-mission.png)
 
 
 ## Why have a virtual hackweek?
 
-The 2020 COVID19 pandemic has required us to rethink and redesign how we offer hackweeks. Community building, networking and peer learning are core elements of our hackweek mission. As an organizing team we are exploring new ways that we can still achieve these goals in a virutal hackweek. We invite all participants to join us as we experiment in various ways, and to recognize that as a community we are all figuring this out as we go along.
+The 2020 coronavirus pandemic has required us to rethink and redesign how we offer hackweeks. Community building, networking and peer learning are core elements of our hackweek mission. As an organizing team we are exploring new ways that we can still achieve these goals in a virutal hackweek. We invite all participants to join us as we experiment in various ways, and to recognize that as a community we are all figuring this out as we go along.
 
 ## Roadmap
 
