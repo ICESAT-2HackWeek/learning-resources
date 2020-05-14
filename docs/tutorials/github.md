@@ -1,5 +1,18 @@
 # GitHub
 
+This tutorial is in development and this page is being continually updated. You may visit our [2019 Git/GitHub tutorials](https://github.com/ICESAT-2HackWeek/intro-jupyter-git) for details on what will be taught.
+
+
+## Learning Objectives
+
+* Understanding the fundamentals of Git
+* GitHub vs. Git: basic overview of how to operate within GitHub websites vs. local operations with Git via command line
+* Single-user workflows
+* Example to illustrate the above: syncing your own work from laptop/work desktop/HPC
+* Collaborative workflows 
+* Dealing with common Git problems
+* General best practices
+
 ## Schedule
 
 | Time | Section | Summary | 

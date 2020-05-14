@@ -17,8 +17,7 @@ nav:
     - Tutorials:
         - Introduction to GitHub: tutorials/github.md
         - Introduction to Jupyter: tutorials/jupyter.md
-        - Introduction to Numpy: tutorials/numpy.md
-        - Introduction to Pandas: tutorials/pandas.md
+        - Introduction to Python: tutorials/python.md
     - Projects:
         - Project Roles and Responsibilities: projects/project.md
     - Reference:

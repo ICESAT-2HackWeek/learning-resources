@@ -3,14 +3,13 @@
 
 ## How to Contribute
 
-
 ### Contribute lessons or content
 
-Refer the [Vocabulary and Acronyms](https://waterhackweek.github.io/learning-resources/VocabAcronyms2020) lesson on the sidebar. This document lists some of the terms encountered during the Cyberseminar series. Enrich this vocabulary by contributing to it so that it is up to date and useful for you!!! Add more terms to this document by raising a pull request for the corresponding github project.
+Refer the [Vocabulary and Acronyms](https://waterhackweek.github.io/learning-resources/VocabAcronyms2020) lesson on the sidebar. This document lists some of the terms encountered during the tutorials. Enrich this vocabulary by contributing to it so that it is up to date and useful for you! Add more terms to this document by raising a pull request for the corresponding github project.
 
 Steps:
 
-1. Navigate to the [learning-resources](https://github.com/waterhackweek/learning-resources) Github project
+1. Navigate to the [learning-resources](https://github.com/icesat-2hackweek/learning-resources) Github project
 <!-- Place this tag where you want the button to render. -->
 
 2. Click on <a class="github-button" data-icon="octicon-repo-forked" aria-label="Fork ntkme/github-buttons on GitHub">Fork</a> button, present at the right side top. This will create an exact copy of the repository under your Github username
@@ -23,5 +22,3 @@ Steps:
 7. This would redirect you to a template, where you need to describe the changes in your Pull request. Mention the title and description of the change and click on 'Create Pull Request' button.
 8. Post this, you just have to wait and watch! If your pull request gets approved, then Congratulations! you made a contribution to open source :D
   
-
-We are extending an open invitation to anyone to join the COVID-19 Community Project experimenting with GeoHealth project integration to contribute and visualize data to Flatten the Curve March 23 - April 16. More information on this will be available soon.

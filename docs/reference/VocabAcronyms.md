@@ -1,11 +1,10 @@
 ## Vocabulary
 
-This page explains some of the terms encountered during Cyberseminars and links to resources on where to learn more about them.
+This page explains some of the terms encountered during tutorials and links to resources on where to learn more about them. This page is under development and we will be continually adding content.
 
 ### Platforms
 
-Hydroshare: an online, collaborative Hydrologic Information System for sharing hydrologic data, models, and code.
-
+[JupyterHub](https://jupyterhub.readthedocs.io/en/stable/): a way to serve Jupyter notebooks for multiple users.
 
 ### Software Libraries
 
@@ -22,8 +21,6 @@ Anaconda: Anaconda is a free and open-source distribution of the Python and R pr
 Jupyter Notebooks: The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more
 
 Docker: An image is a executable package that includes everything needed to run a piece of software, including the code, a runtime, libraries, environment variables, and configuration files.   A container is a runtime instance of an image – what the image becomes in memory when actually executed. It runs completely isolated from the host environment by default, only accessing host files and ports if configured to do so.
-
-Landlab – a Python-based modeling environment that allows scientists and students to build numerical landscape models.
 
 ## Acronyms
 
