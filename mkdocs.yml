@@ -37,7 +37,7 @@ extra:
     web_url: https://icesat-2hackweek.github.io
     slack_url: https://icesat2hackweek.slack.com
     github_org_url: https://github.com/icesat-2hackweek
-    pangeo_url: https://aws-uswest2.pangeo.io
+    pangeo_url: http://icesat-2.hackweek.io/
     admin_contact: Jane Koh
 markdown_extensions:
   - admonition
