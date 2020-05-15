@@ -9,13 +9,17 @@ We will encourage you to use our shared resources for all the tutorials, and you
 
 ### How do I access the shared cloud environment?
 
-Access to our shared cloud environment is easy. Just click on [{{ hackweek.pangeo_url }}]({{ hackweek.pangeo_url }})
+Access to our shared cloud environment is easy. Just click on [{{ hackweek.pangeo_url }}]({{ hackweek.pangeo_url }}).
 
 ![pangeo-opening](../img/pangeo-opening.png)
 
-Assuming you set up your GitHub credentials correctly (see the previous lesson), you can now click on the "Sign in with GitHub" button:
+Assuming you set up your GitHub credentials correctly (see the previous lesson), you can now click on the "Sign in with GitHub" button. Then, authorize the OAuth app to connect to your GitHub account.
 
-![pangeo-loading](../img/pangeo-loading.png)
+![pangeo-img-select](../img/pangeo-image-select.png)
+
+You will be put back to a page that shows a single image choice for your server. Click "Start" to launch your JupyterLab server!
+
+![pangeo-loading](../img/pangeo-server-starting.png)
 
 It will take a little bit of time for this to load - be patient! Once things are spun up you will see your very own instance of a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) environment:
 
@@ -66,9 +70,11 @@ After issuing the Git clone command you should see something like this:
 
 When you are finished working for the day it is important to explicitly log out of your Pangeo session. The reason for this is it will save us a bit of money! When you keep a session active it uses up AWS resources and keeps a series of virtual machines deployed. 
 
-To stop the server, navigate to "Hub --> Control Panel" and then click the "Stop my server" button:
+To stop the server, navigate to "File -> Hub Control Panel" and then click the "Stop My Server" button:
 
-![shutting-down](../img/stop-server.png)
+![hub-control-panel-button](../img/hub-control-panel-button.png)
+
+![shutting-down](../img/stop-my-server.png)
 
 !!! warning "logging out"
     Logging out will **NOT** cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.
