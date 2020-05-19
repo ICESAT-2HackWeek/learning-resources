@@ -15,11 +15,13 @@ nav:
         - Python installation: preliminary/conda.md
         - Earthdata login: preliminary/earthdata.md
     - Tutorials:
+        - Getting Started: tutorials/getting_started.md
         - Introduction to GitHub: tutorials/github.md
         - Introduction to Jupyter: tutorials/jupyter.md
         - Introduction to Python: tutorials/python.md
     - Projects:
         - Project Roles and Responsibilities: projects/project.md
+        - Project Example Workflow and Data: projects/example_workflow.md
     - Reference:
         - Vocabulary and Acronyms: reference/VocabAcronyms.md
     - About:
