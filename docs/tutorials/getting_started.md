@@ -23,7 +23,7 @@ Navigate to the tutorial repository on [GitHub](https://github.com/ICESAT-2HackW
 Fork the tutorial repository to your personal GitHub account via the GitHub web user interface.
 
 For example, https://github.com/friedrichknuth/geospatial-analysis 
-forked from https://github.com/ICESAT-2HackWeek/geospatial-analysis .
+forked from https://github.com/ICESAT-2HackWeek/geospatial-analysis.
 
 #### Step 2
 Clone the forked tutorial to your machine/Pangeo environment. You can easily copy the link to a repository by selecting the green "clone or download" dropdown and hitting the clipboard icon, which will automatically copy the link for you.
@@ -33,6 +33,8 @@ Open a terminal (using the "plus" sign in your Pangeo JupyterHub) and execute:
 $ git clone https://github.com/friedrichknuth/geospatial-analysis.git
 $ cd geospatial-analysis  
 ```
+
+_Note: a more detailed version of step 2, including images, is available as part of the [Preliminary Steps - JupyterHub Connection](https://icesat-2hackweek.github.io/learning-resources/preliminary/jupyterhub/#how-do-i-get-my-code-in-and-out-of-pangeo)._
 
 #### Step 3
 Add the upstream master (a link to the tutorial repository you forked) so we can stay up to date with any changes made to the main tutorial.
