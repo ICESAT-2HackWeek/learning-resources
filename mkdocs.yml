@@ -15,11 +15,13 @@ nav:
         - Python installation: preliminary/conda.md
         - Earthdata login: preliminary/earthdata.md
     - Tutorials:
+        - Getting Started: tutorials/getting_started.md
         - Introduction to GitHub: tutorials/github.md
         - Introduction to Jupyter: tutorials/jupyter.md
         - Introduction to Python: tutorials/python.md
     - Projects:
         - Project Roles and Responsibilities: projects/project.md
+        - Project Example Workflow and Data: projects/example_workflow.md
     - Reference:
         - Vocabulary and Acronyms: reference/VocabAcronyms.md
     - About:
@@ -37,7 +39,7 @@ extra:
     web_url: https://icesat-2hackweek.github.io
     slack_url: https://icesat2hackweek.slack.com
     github_org_url: https://github.com/icesat-2hackweek
-    pangeo_url: https://aws-uswest2.pangeo.io
+    pangeo_url: http://icesat-2.hackweek.io/
     admin_contact: Jane Koh
 markdown_extensions:
   - admonition
