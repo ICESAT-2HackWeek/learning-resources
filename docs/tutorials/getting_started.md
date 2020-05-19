@@ -1,6 +1,6 @@
 # Getting started on a tutorial
 
-Instructions for getting a tutorial started on Pangeo (in your browser) and saving changes to your copy of a tutorial.
+These are instructions for getting a tutorial started on Pangeo (in your browser) and saving changes to your copy of a tutorial.
 
 ## Start Pangeo in your browser
 

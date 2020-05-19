@@ -1,20 +1,36 @@
 # Basic git workflow for a project
 Here we suggest a basic git workflow for working on your group project. Combined with our example project template and good communication, this workflow should help minimize conflicts on your GitHub project repo.
 
-### First time only - clone your project into your working environment (you must replace the below address with your repo's address)
+### First time only - clone your project into your local working environment 
+ 
 ```
-$ git clone https://github.com/ICESAT-2HackWeek/topohack.git 
+$ git clone https://github.com/ICESAT-2HackWeek/<project-repo-name>.git 
 ```
+
+Where the ```<project-repo-name>``` is the unique name of your project repository.
 
 ### Each time you begin working
-Move into your project directory, check for/pull remote changes to your master branch, and checkout your working branch (use -b if you are beginning work and need to create a new branch)
+
+Navigate to your project directory:
+
 ```
-$ cd topohack 
+$ cd <project-repo-name> 
+```
+
+Now, check in with your team: has there been any new work pushed to GitHub? If so, you will need to pull remote changes to your master branch:
+
+```
 $ git fetch
 $ git pull origin master:master
-
-$ git checkout [-b] branch_name  
 ```
+
+Next, checkout your working branch. Use the ```-b``` option if you are beginning work and need to create a new branch:
+
+```
+$ git checkout [-b] <branch-name>  
+```
+
+Here ```<branch-name>``` is an arbitrary name identifying this branch of work. 
 
 ### Make changes or add new files locally and put them on GitHub
 
