@@ -1,5 +1,14 @@
 # Learning Technologies
 
+## Virtual Tools
+
+[Zoom](https://zoom.us) will be the main platform we will be using for tutorials, office hours and question-and-answer sessions. We will be asking project teams to set up their own platforms for interactive hacking. We will have technical support people available to assist.
+
+## What if I am not permitted to use these tools?
+
+We recognize that some employeers and agencies do not allow people to use Zoom. At this time we have not been able to find any other universally-accessible platform to replace Zoom. We encourage you to [contact us](mailto:{{ hackweek.email }}) if you are concerned about your ability to access our event.
+
+
 ## Will my laptop work for this hackathon?
 
 All participants will be required to have their own laptop. The absolute minimum requirement is any laptop with a functioning web browser so that you can access our shared cloud computing resources. We will also teach you to install software on your own computer. For that we recommend the following:

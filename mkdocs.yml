@@ -20,7 +20,8 @@ nav:
         - Introduction to Jupyter: tutorials/jupyter.md
         - Introduction to Python: tutorials/python.md
     - Projects:
-        - Project Roles and Responsibilities: projects/project.md
+        - Overview: projects/overview.md
+        - Project Roles and Responsibilities: projects/project_roles.md
         - Project Example Workflow and Data: projects/example_workflow.md
     - Reference:
         - Vocabulary and Acronyms: reference/VocabAcronyms.md
@@ -40,7 +41,8 @@ extra:
     slack_url: https://icesat2hackweek.slack.com
     github_org_url: https://github.com/icesat-2hackweek
     pangeo_url: http://icesat-2.hackweek.io/
-    admin_contact: Jane Koh
+    email: icesat@uw.edu
+    admin_contact: Alex Huynh
 markdown_extensions:
   - admonition
 repo_url: https://github.com/icesat-2hackweek/learning-resources
