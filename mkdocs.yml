@@ -41,6 +41,7 @@ extra:
     slack_url: https://icesat2hackweek.slack.com
     github_org_url: https://github.com/icesat-2hackweek
     pangeo_url: http://icesat-2.hackweek.io/
+    email: icesat@uw.edu
     admin_contact: Alex Huynh
 markdown_extensions:
   - admonition
