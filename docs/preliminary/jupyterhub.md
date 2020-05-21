@@ -30,6 +30,8 @@ It will take a little bit of time for this to load - be patient! Once things are
 
 [Pangeo](https://pangeo.io) is a community of researchers building open, reproducible and scalable scientific software tools. Several of us are involved in projects with NASA and NSF to build prototype systems to enable data discovery in the era of expanding data volume and complexity.
 
+![jupyterhub-connectivity](../img/jupyterhub-connectivity.png)
+
 For this hackweek, we have created virtual computing instances on Amazon Web Services that can be deployed on demand in a parallel computing environment. We use JupyterHub as a way to give a Jupyter Notebook server to each person in a group. [These slides](https://www.slideshare.net/willingc/jupyterhub-a-thing-explainer-overview?from_action=save) give a nice overview of what JupyterHub is all about. We use JupyterHub in an educational setting because it enables us to quickly begin working with code without spending time to get the necessary libraries and dependencies set up on everyone's individual computers.
 
 ### How do I get my code in and out of Pangeo?
@@ -74,11 +76,9 @@ Simple, example GitHub/git/local-workspace workflows for getting a tutorial star
 
 When you are finished working for the day it is important to explicitly log out of your Pangeo session. The reason for this is it will save us a bit of money! When you keep a session active it uses up AWS resources and keeps a series of virtual machines deployed. 
 
-To stop the server, navigate to "File -> Hub Control Panel" and then click the "Stop My Server" button:
+Stopping the server happens automatically when you log out, so navigate to "File -> Log Out" and just click "Log Out"!
 
-![hub-control-panel-button](../img/hub-control-panel-button.png)
-
-![shutting-down](../img/stop-my-server.png)
+![hub-control-panel-button](../img/hub-logout-button.png)
 
 !!! warning "logging out"
     Logging out will **NOT** cause any of your work to be lost or deleted. It simply shuts down some resources. It would be equivalent to turning off your desktop computer at the end of the day.
