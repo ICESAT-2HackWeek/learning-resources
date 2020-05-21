@@ -28,7 +28,7 @@ GitHub organizations are a convenient way for teams to get all content relevant 
 
 We have created a GitHub organization called [{{ hackweek.name }}]({{ hackweek.github_org_url}}). For security purposes you can only join the organization by invitation. Here are the steps:
 
-1. Once you have a GitHub ID, send it to {{ hackweek.admin_contact }} on our Slack channel
+1. Once you have a GitHub ID, send it to {{ hackweek.admin_contact }} via an email to icesat@uw.edu
 2. We will then find your ID and send you an invitation which should generate an email notification to the email you provided when you signed up for GitHub
 3. Follow the links in the email to accept the invitation
 
