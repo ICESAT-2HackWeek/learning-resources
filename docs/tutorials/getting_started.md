@@ -1,6 +1,6 @@
 # Getting started on a tutorial
 
-These are instructions for getting a tutorial started on Pangeo (in your browser) and saving changes to your copy of a tutorial.
+These are instructions for getting a tutorial started on Pangeo (in your browser) and updating the tutorial. If you would like to take notes, please do so in an external document or your personal fork of the tutorial repository (if you know what that means).
 
 ## Start Pangeo in your browser
 
@@ -15,65 +15,44 @@ Start the Pangeo computing environement. It may take a few moments to start up.
 
 
 ## Get a local copy of the tutorial and follow along
-This basic workflow allows you to follow along with tutorials and save changes to your fork while staying up-to-date with any changes made to the master tutorial.
+This basic workflow allows you to follow along with tutorials while staying up-to-date with any changes made to the master tutorial.
 
 #### Step 1
 Navigate to the tutorial repository on [GitHub](https://github.com/ICESAT-2HackWeek).
 
-Fork the tutorial repository to your personal GitHub account via the GitHub web user interface.
-
-For example, https://github.com/friedrichknuth/geospatial-analysis 
-forked from https://github.com/ICESAT-2HackWeek/geospatial-analysis.
-
-#### Step 2
-Clone the forked tutorial to your machine/Pangeo environment. You can easily copy the link to a repository by selecting the green "clone or download" dropdown and hitting the clipboard icon, which will automatically copy the link for you.
+Clone the tutorial to your machine/Pangeo environment. You can easily copy the link to a repository by selecting the green "clone or download" dropdown and hitting the clipboard icon, which will automatically copy the link for you.
 
 Open a terminal (using the "plus" sign in your Pangeo JupyterHub) and execute:
 ```
-$ git clone https://github.com/friedrichknuth/geospatial-analysis.git
+$ git clone https://github.com/ICESAT-2HackWeek/geospatial-analysis.git
 $ cd geospatial-analysis  
 ```
 
-_Note: a more detailed version of step 2, including images, is available as part of the [Preliminary Steps - JupyterHub Connection](https://icesat-2hackweek.github.io/learning-resources/preliminary/jupyterhub/#how-do-i-get-my-code-in-and-out-of-pangeo)._
+_Note: a more detailed version of step 1, including images, is available as part of the [Preliminary Steps - JupyterHub Connection](https://icesat-2hackweek.github.io/learning-resources/preliminary/jupyterhub/#how-do-i-get-my-code-in-and-out-of-pangeo)._
 
-#### Step 3
-Add the upstream master (a link to the tutorial repository you forked) so we can stay up to date with any changes made to the main tutorial.
+#### Step 2
+Add the origin master (a link to the tutorial repository you cloned) so we can stay up to date with any changes made to the main tutorial.
 
 ```
-$ git remote add upstream https://github.com/ICESAT-2HackWeek/geospatial-analysis.git
+$ git remote add origin https://github.com/ICESAT-2HackWeek/geospatial-analysis.git
+```
+
+#### Step 3
+Update your local copy with any changes to the master copy. If you have tried to save notes or changes within your local copy of the notebook, this may cause conflicts. 
+Fetch and merge (using git pull) the latest changes from origin master.
+
+```
+$ git pull origin
 ```
 
 #### Step 4
-Fetch and merge the latest changes from upstream master.
+Follow along with the tutorial. You can save your notes (if you're taking some in the Pangeo text editor) by downloading a copy to your local machine.
 
-```
-$ git fetch upstream
-$ git merge upstream/master
-```
 
-#### Step 5
-Checkout a branch to make changes and follow along with the tutorial.
 
-```
-$ git checkout -b branch_name  
-```
+If additional changes were made to the origin master tutorial, you can checkout the master branch `$ git checkout master` and repeat step 3 to get the latest content.
 
-#### Step 6
-Follow along with the tutorial. You are welcome to make changes and notes as you go, and these will be saved to your forked copy in the next step.
-
-#### Step 7
-Commit your changes and push them up to your fork, under your branch.
-
-```
-$ git commit -am "A short commit message noting what you have changed here"  
-$ git push origin branch_name  
-```
-
-Now your fork will have your changes backed up to GitHub under your branch.
-
-If additional changes were made to the upstream master tutorial, you can checkout the master branch `$ git checkout master` and repeat step 4 to get the latest content, then checkout a new branch with a different name and follow along from there.
-
-*** Please note: the Pangeo JupyterHub you are using for this Hackweek should not be relied upon to save your changes, and will be removed a few weeks after the Hackweek. Thus, you MUST complete Step 7 to push the changes to your GitHub fork of the tutorial if you would like to have continued access to any tutorial notes or changes you made. ***
+*** Please note: the Pangeo JupyterHub you are using for this Hackweek should not be relied upon to save your documents beyond the duration of the Hackweek, and will be removed a few weeks after the Hackweek. Thus, you MUST complete Step 7 to save the changes to your local machine if you would like continued access to them. ***
 
 
 ----
