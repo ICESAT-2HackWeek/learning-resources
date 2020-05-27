@@ -4,7 +4,7 @@ Data science projects are becoming increasingly complex, and new tools are neede
 
 ## Purpose of the projects:
 
-During the hackweek we will be facilitating open hacking sessions most of the afternoons. The purpose of these sessions is for you to gain hands-on experience in working together on a well-defined problem related to water sciences.
+During the hackweek we will be facilitating open hacking sessions most of the afternoons. The purpose of these sessions is for you to gain hands-on experience in working together on a well-defined problem.
 
 ## What is hacking?
 
@@ -45,7 +45,7 @@ _List all participants on the project. Choose one team member to act as project 
 
 ### The problem
 
-What water problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
+What problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
 
 ### Application Example
 
@@ -65,7 +65,7 @@ How would you or others traditionally try to address this problem?
 
 ### Proposed methods/tools
 
-Building from what you learn at waterhackweek, what new approaches would you like to try to implement?
+Building from what you learn at this hackweek, what new approaches would you like to try to implement?
 
 ### Background reading
 
