@@ -1,5 +1,9 @@
 # Hackweek Schedule
 
+Note: Although the schedule is fairly set, we will still be making occasional updates to it, so please check back!
+
+You may wish to view our [Google Calendar](https://calendar.google.com/calendar?cid=NHFzMzBzbHYyYW5nN3IzczM1b2E4aDhybG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for the event.
+
 ## Monday June 8 
 
 ### 9:00 to 10:30 AM PDT: Introductory Session
@@ -34,6 +38,18 @@ ________________________________________________________
 
 * introduction to our shared computing environment
 * principles of open science 
+
+### 12:30 to 1:00 PM PDT: Office hours
+
+* have questions? Need help with the materials so far? Come chat with an instructor during office hours!
+
+________________________________________________________
+
+## Thursday June 11 
+
+### 10:00 to 11:00 AM PDT: Office hours
+
+* have questions? Need help with the materials so far? Come chat with an instructor during office hours!
 
 ________________________________________________________
 
