@@ -2,7 +2,7 @@
 
 **Note**: Although the schedule is fairly set, we will still be making occasional updates to it, so please check back!
 
-You may wish to view our [Google Calendar](https://calendar.google.com/calendar?cid=NHFzMzBzbHYyYW5nN3IzczM1b2E4aDhybG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for the event.
+You may wish to view our [Google Calendar](https://calendar.google.com/calendar?cid=Y2txZmt1bmw4bWk1aW4zdWc1Y3B1Z3BoYm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for the event.
 
 # Time Zones
 
