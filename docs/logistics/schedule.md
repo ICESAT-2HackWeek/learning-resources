@@ -105,7 +105,6 @@ ________________________________________________________
 
 | Time  |  Activity           | Lead | 
 | --------- | ------------- | ------------- | 
-
 | 9:00-10:00 AM | tutorial session (concurrent) Land ice applications |  Ben Smith  |
 | 9:00-10:00 AM | tutorial session (concurrent) Sea ice applications | Ellen Buckley  | 
 | 10:15-11:00 AM | tutorial session: Data filtering and visualization, Part 2 | Johan Nilsson  |
@@ -120,7 +119,7 @@ ________________________________________________________
 
 | Time  |  Activity           | Lead | 
 | --------- | ------------- | ------------- | 
-| 9:00-10:30 AM | tutorial session (advanced topics - (Machine learning, others TBD) |  |
+| 9:00-10:30 AM | Machine learning | Yara Mohajerani and Shane Grigsby |
 | 11:00-11:15 AM | Virtual stand-up | | 
 | hacking (instructors available) | 11:30 - 2:00 PM  PDT |
 
