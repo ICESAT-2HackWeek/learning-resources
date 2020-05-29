@@ -74,7 +74,7 @@ ________________________________________________________
 
 ### 11:30 to 12:30 PM: Introduction to ICESat-2 Sea Ice and Land Ice Products and Data Access
 
-* Sea ice products: overview of products, algorithms, and parameters for sea ice investigations (*Lead Instructor: Ellen Buckley*)
+* Sea ice products: overview of products, algorithms, and parameters for sea ice investigations (*Lead Instructor: Alek Petty*)
 * Land ice products: overview of products, algorithms, and parameters for land ice investigations (*Lead Instructor: Ben Smith*)
 * ICEsat-2 data access: basic data explore and visualization in OpenAltimetry (*Lead Instructors: Jessica Scheick and Amy Steiker*)
 
