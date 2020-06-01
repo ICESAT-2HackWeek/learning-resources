@@ -9,6 +9,7 @@ Here are some quick links to material for our upcoming June 2020 event:
 * [hackweek schedule](logistics/schedule.md): overview of our planned virtual events spanning June 8 - 18, 2020.
 * [preliminary work](logistics/technology.md): everything you need to know to be ready for the hackweek.
 * [the Pangeo Hub](http://icesat-2.hackweek.io/): link for accessing the Pangeo deployment. 
+* [Getting Help Decision Tree](https://drive.google.com/file/d/15lneuM6zIwjebq7BaHOdGMLZIVLXGjL6/view?usp=sharing): figure to help you determine the best place to get help.
 
 ## What is a hackweek?
 
