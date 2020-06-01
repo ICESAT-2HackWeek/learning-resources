@@ -2,7 +2,7 @@
 
 ## Johan Nilsson
 
-<img src="/img/people/JohanNilsson.jpg" alt="picture of Johan Nilsson" width="300" height="300" />
+<img src="../../img/people/JohanNilsson.jpg" alt="picture of Johan Nilsson" width="300" height="300" />
 
 * *Affiliation*: [Jet Propulsion Laboratory, NASA](https://science.jpl.nasa.gov/people/Nilsson/)
 * *Ask me about*: 
@@ -11,14 +11,14 @@
 
 ## Jessica Scheick
 
-<img src="/img/people/JessicaScheick.jpg" alt="picture of Jessica Scheick" width="300" height="300">
+<img src="../../img/people/JessicaScheick.jpg" alt="picture of Jessica Scheick" width="300" height="300">
 
 * *Affiliation*: University of Maine
 * *Ask me about*:
 
 ## Amy Steiker
 
-<img src="/img/people/AmySteiker.png" alt="picture of Amy Steiker" width="300" height="300">
+<img src="../../img/people/AmySteiker.png" alt="picture of Amy Steiker" width="300" height="300">
 
 * *Affiliation*: National Snow and Ice Data Center
 * *Ask me about*: 
@@ -39,7 +39,7 @@
 
 ## Ellen Buckley
 
-<img src="/img/people/EllenBuckley.jpg" alt="picture of Ellen Buckley" width="300" height="300">
+<img src="../../img/people/EllenBuckley.jpg" alt="picture of Ellen Buckley" width="300" height="300">
 
 * *Affiliation*: University of Maryland
 * *Ask me about*:
@@ -60,7 +60,7 @@
 
 ## Ian Joughin
 
-<img src="/img/people/IanJoughin.JPG" alt="picture of Ian Joughin" width="300" height="300">
+<img src="../../img/people/IanJoughin.JPG" alt="picture of Ian Joughin" width="300" height="300">
 
 * *Affiliation*: APL
 * *Ask me about*:
@@ -74,7 +74,7 @@
 
 ## Axel Schweiger
 
-<img src="/img/people/AxelSchweiger.JPG" alt="picture of Axel Schweiger" width="300" height="300">
+<img src="../../img/people/AxelSchweiger.JPG" alt="picture of Axel Schweiger" width="300" height="300">
 
 * *Affiliation*: APL
 * *Ask me about*:
@@ -88,14 +88,14 @@
 
 ## Ben Smith
 
-<img src="/img/people/BenSmith.JPG" alt="picture of Ben Smith" width="300" height="300">
+<img src="../../img/people/BenSmith.JPG" alt="picture of Ben Smith" width="300" height="300">
 
 * *Affiliation*: APL
 * *Ask me about*:
 
 ## Alex Huynh
 
-<img src="/img/people/AlexHuynh.png" alt="picture of Alex Huynh" width="300" height="300">
+<img src="../../img/people/AlexHuynh.png" alt="picture of Alex Huynh" width="300" height="300">
 
 * *Affiliation*: APL
 * *Ask me about*:
@@ -109,7 +109,7 @@
 
 ## Nick Holschuh
 
-<img src="/img/people/NickHolschuh.png" alt="picture of Nick Holschuh" width="300" height="300">
+<img src="../../img/people/NickHolschuh.png" alt="picture of Nick Holschuh" width="300" height="300">
 
 * *Affiliation*: Department of Geology, Amherst College
 * *Ask me about*:
@@ -123,14 +123,14 @@
 
 ## Tom Neumann
 
-<img src="/img/people/TomNeumann.jpg" alt="picture of Tom Neumann" width="300" height="300">
+<img src="../../img/people/TomNeumann.jpg" alt="picture of Tom Neumann" width="300" height="300">
 
 * *Affilation*: NASA Goddard Space Flight Center
 * *Ask me about*:
 
 ## Sebastian Alvis
 
-<img src="/img/people/SebastianAlvis.jpg" alt="picture of Sebastian Alvis" width="300" height="300">
+<img src="../../img/people/SebastianAlvis.jpg" alt="picture of Sebastian Alvis" width="300" height="300">
 
 * *Affiliation*: eScience & APL
 * *Ask me about*:
