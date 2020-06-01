@@ -10,12 +10,11 @@ A brief list of the projects (and links to their repositories on GitHub) worked 
 
 *Sea Ice*
 
-- [Floes are Swell](https://github.com/ICESAT-2HackWeek/Floes-are-Swell)
-  - Calculate chord length (CLD) and lead width (LWD)
+* [Floes are Swell](https://github.com/ICESAT-2HackWeek/Floes-are-Swell)
+  * Calculate chord length (CLD) and lead width (LWD)
 
-- [Segtrax](https://github.com/ICESAT-2HackWeek/segtrax)
-
-  - Create trajectories of sea ice motion (creates Python trajectory class)
+* [Segtrax](https://github.com/ICESAT-2HackWeek/segtrax)
+  * Create trajectories of sea ice motion (creates Python trajectory class)
 
 *Glaciers and Ice Sheets*
 
