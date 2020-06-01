@@ -9,6 +9,7 @@ nav:
         - Today's Activitites: logistics/today.md
         - Hackweek Schedule: logistics/schedule.md
         - Learning Technologies: logistics/technology.md
+        - Our Team: logistics/ourTeam.md
     - Preliminary Steps:
         - GitHub account: preliminary/github.md
         - JupyterHub connection: preliminary/jupyterhub.md
