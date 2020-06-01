@@ -1,7 +1,7 @@
 2019 ICESat-2 Cryospheric Hackweek Projects
 -------------------------------------------
 
-A brief list of the projects (and links to their repositories on GitHub) worked on at the 2019 Hackweek are below. These projects are also tagged with the `2019-project` tag in the `University of Washington ICESat-2 Hack Week GitHub organization <https://github.com/ICESAT-2HackWeek>`_
+A brief list of the projects (and links to their repositories on GitHub) worked on at the 2019 Hackweek are below. These projects are also tagged with the `2019-project` tag in the [University of Washington ICESat-2 Hack Week GitHub organization](https://github.com/ICESAT-2HackWeek).
 
 *Python Libraries*
 
@@ -49,4 +49,4 @@ A brief list of the projects (and links to their repositories on GitHub) worked 
   - Resolve topography over complex terrain
   
   
-Adapted from [icepyx ICESat-2 Open-Source Resources Guide](https://icepyx.readthedocs.io/en/latest/community/resources.html)
+Adapted from [icepyx ICESat-2 Open-Source Resources Guide](https://icepyx.readthedocs.io/en/latest/community/resources.html).
