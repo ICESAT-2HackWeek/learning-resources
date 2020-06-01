@@ -85,7 +85,7 @@ ________________________________________________________
 * expectations and how to hack
 * how will we break up into project groups on Monday
 * overview of existing list of projects
-* [Examples of 2019 CSI Hackweek Projects[ (https://github.com/icesat-2hackweek/learning-resources/docs/projects/2019_projects.md)
+* [Examples of 2019 Hackweek Projects[ (https://github.com/icesat-2hackweek/learning-resources/docs/projects/2019_projects.md)
 
 ________________________________________________________
 
