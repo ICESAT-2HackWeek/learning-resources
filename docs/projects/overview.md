@@ -1,6 +1,10 @@
 # Overview
 
-Data science projects are becoming increasingly complex, and new tools are needed to manage contributions from different individuals and teams. At waterhackweek we would like to introduce you to project management tools built in to GitHub. We invite you to use these tools during our event for your projects, and hopefully continue to contribute to this collaborative work after the event is over.  Projects will be a collaborative effort to collectively advance a complex research question, while meeting individual learning goals.  The Project Lead designs the research question and prepares preliminary dataset and existing code. The Data Science Lead support the Project Lead and a team of 2-5 other participants to develop a new innovation, insight or research product using open source code. The teams are invited to work together using any methods, platforms, libraries or data they choose. 
+This section contains everything you need to know about hackweek projects:
+
+* What are the [roles and responsibilities](project_roles.md) of hackweek project participants?
+* What are the [recommended GitHub workflows](example_workflow.md) for managing projects?
+* What are some [examples of past projects](2019_projects.md)?
 
 ## Purpose of the projects:
 
