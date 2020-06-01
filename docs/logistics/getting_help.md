@@ -4,4 +4,4 @@ We know how overwhelming all of this information can be. And sometimes, things j
 
 The figure is also available as a [Google Presentation](https://drive.google.com/file/d/15lneuM6zIwjebq7BaHOdGMLZIVLXGjL6/view?usp=sharing), wherein the underlined text provides links to some resources that may be helpful.
 
-![Getting Help Decision Tree](learning-resources/docs/img/IS2-HW_SupportDecisionTree.png)
+![Getting Help Decision Tree](../img/IS2-HW_SupportDecisionTree.png)
