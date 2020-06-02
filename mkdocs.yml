@@ -28,6 +28,7 @@ nav:
         - 2019 Hackweek Projects: projects/2019_projects.md
     - Reference:
         - Vocabulary and Acronyms: reference/VocabAcronyms.md
+        - Custom Environments in JupyterHub: reference/conda-env.md
     - About:
         - How to Contribute: about/howtocontribute.md
 theme: 
