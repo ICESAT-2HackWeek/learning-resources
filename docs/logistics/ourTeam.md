@@ -141,3 +141,14 @@
 * *Ask me about*:
 	* Connecting to the JupyterHub
 	* Git
+
+## Daniel Shapero
+
+<img src="http://psc.apl.uw.edu/wordpress/wp-content/uploads/shapero/200423%20-%20Shapero%20Profile%20picture.jpg" alt="picture of Daniel Shapero" width="300" height="300">
+
+* *Affiliation*: APL
+* *Ask me about*:
+	* Git
+	* Shell
+	* Python
+	* Generalized Geospatial Hackery
