@@ -155,7 +155,7 @@
 
 ## Tyler Sutterley
 
-<img src="https://avatars1.githubusercontent.com/u/5384907?s=96&v=4" alt="picture of Tyler Sutterley" width="300" height="300">
+<img src="https://avatars0.githubusercontent.com/u/5384907?s=460&u=77cf8bd2056ba00175009ca1fcfa3f1ea8bec785&v=4" alt="picture of Tyler Sutterley" width="300" height="300">
 
 * *Affiliation*: APL
 * *Ask me about*:
