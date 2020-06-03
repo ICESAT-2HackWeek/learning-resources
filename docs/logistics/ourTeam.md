@@ -20,6 +20,12 @@
 
 * *Affiliation*: University of Maine
 * *Ask me about*:
+	* icepyx
+	* Data Access
+	* Data Subsetting
+	* Geospatial Data Processing
+	* Python (basics)
+	* Git / GitHub
 
 ## Amy Steiker
 
@@ -27,6 +33,11 @@
 
 * *Affiliation*: National Snow and Ice Data Center
 * *Ask me about*: 
+	* NSIDC Data Products
+	* ICESat-2 Data Access from NSIDC
+	* ICESat-2 Data Subsetting Services from NSIDC
+	* OpenAltimetry
+	* NASA Earthdata
 
 ## Lindsey Heagy
 
@@ -41,6 +52,11 @@
 
 * *Affiliation*:[Department of Statistics, UC Berkeley](https://bids.berkeley.edu/people/fernando-perez)
 * *Ask me about*:
+	* Git / GitHub
+	* Reproducible Science
+	* Jupyter
+	* PyData tools (NumPy, SciPy, matplotlib, Pandas)
+	* Numerical / scientific computing
 
 ## Ellen Buckley
 
@@ -97,6 +113,9 @@
 
 * *Affiliation*: APL
 * *Ask me about*:
+	* Land-Ice Products
+	* Gridding
+	* Python
 
 ## Alex Huynh
 
@@ -118,6 +137,10 @@
 
 * *Affiliation*: Department of Geology, Amherst College
 * *Ask me about*:
+	* The ICESat-2 Satellite
+	* Data Products
+	* Data Structures
+	* Python
 
 ## Scott Henderson
 
@@ -125,6 +148,10 @@
 
 * *Affiliation*: eScience & ESS
 * *Ask me about*:
+	* Python
+	* Conda
+	* Jupyter
+	* Pangeo / Cloud Computing
 
 ## Tom Neumann
 
@@ -139,8 +166,11 @@
 
 * *Affiliation*: eScience & APL
 * *Ask me about*:
-	* Connecting to the JupyterHub
-	* Git
+	* Jupyter (and specifically Connecting to the JupyterHub)
+	* Git / GitHub
+	* Pangeo / Cloud Computing
+	* Python
+	* Pandas
 
 ## Daniel Shapero
 
@@ -159,7 +189,7 @@
 
 * *Affiliation*: APL
 * *Ask me about*:
-	* Git
+	* Git / GitHub
 	* Jupyter
 	* Python
 	* IceSat-2 Data Products
