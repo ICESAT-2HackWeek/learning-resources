@@ -152,3 +152,15 @@
 	* Shell
 	* Python
 	* Generalized Geospatial Hackery
+
+## Tyler Sutterley
+
+<img src="https://avatars1.githubusercontent.com/u/5384907?s=96&v=4" alt="picture of Tyler Sutterley" width="300" height="300">
+
+* *Affiliation*: APL
+* *Ask me about*:
+	* Git
+	* Jupyter
+	* Python
+	* IceSat-2 Data Products
+	* Altimetry
