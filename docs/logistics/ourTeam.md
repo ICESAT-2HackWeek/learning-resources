@@ -1,13 +1,18 @@
 # Our Team
 
+## Jane Koh
+
+<img src="../../img/people/JaneKoh.jpg" alt="picture of Jane Koh" width="300" height="300">
+
+* *Affiliation*: eScience Institute
+* *Ask me about*: Zoom technical support
+
 ## Johan Nilsson
 
 <img src="../../img/people/JohanNilsson.jpg" alt="picture of Johan Nilsson" width="300" height="300" />
 
 * *Affiliation*: [Jet Propulsion Laboratory, NASA](https://science.jpl.nasa.gov/people/Nilsson/)
 * *Ask me about*: 
-    * gridding ICESat-2 data
-    * ice sheet applications
 
 ## Jessica Scheick
 
@@ -84,7 +89,7 @@
 <img src="https://geohackweek.github.io/ghw2017/images/4993098.jpeg" alt="picture of Anthony Arendt" width="300" height="300">
 
 * *Affiliation*: eScience & APL
-* *Ask me about*:
+* *Ask me about*: team building, community software, administrative support
 
 ## Ben Smith
 
