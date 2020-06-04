@@ -12,5 +12,6 @@ For more eScience hackweek information contact [Dr. Anthony Arendt](mailto:aaren
 * install mkdocs from conda-forge: ```conda install -c conda-forge mkdocs```
 * To develop locally: ```mkdocs serve```
 * To publish to GitHub: ```mkdocs gh-deploy```
-* This uses the markdown extensions [admonition](https://squidfunk.github.io/mkdocs-material/extensions/admonition/) and the markdown plugin [markdownextradata](https://github.com/rosscdh/mkdocs-markdownextradata-plugin/).
-* edit the mkdocs.yml file to customize the hackweek name and website to your particular event
+* This uses the markdown extensions [admonition](https://squidfunk.github.io/mkdocs-material/extensions/admonition/), which is automatically enabled in `mkdocs.yml`.
+* This uses the markdown plugin [markdownextradata](https://github.com/rosscdh/mkdocs-markdownextradata-plugin/), which you can install with `pip install mkdocs-markdownextradata-plugin`.
+* edit the `mkdocs.yml` file to customize the hackweek name and website to your particular event
