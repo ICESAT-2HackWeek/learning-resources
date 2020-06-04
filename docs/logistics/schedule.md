@@ -94,7 +94,7 @@ ________________________________________________________
 | Time  |  Activity           | Lead | 
 | --------- | ------------- | ------------- | 
 | 9:00 to 10:00 AM  | tutorial session: Programmatic ICESat-2 data access |  Jessica Scheick and Amy Steiker | 
-| 10:30 to 11:30 AM | tutorial session: Data filtering and visualization, Part 1 | Fernando Paolo  | 
+| 10:30 to 11:30 AM | tutorial session: Introduction to HDF5 and ICESat-2 data files | Fernando Paolo  | 
 | 11:45 AM to 12:45 PM | project formation | Anthony Arendt | 
 | 1:30 to 3:00 PM | hacking (instructors available) |   | 
 
@@ -108,7 +108,7 @@ ________________________________________________________
 | --------- | ------------- | ------------- | 
 | 9:00-10:00 AM | tutorial session (concurrent) Land ice applications |  Ben Smith  |
 | 9:00-10:00 AM | tutorial session (concurrent) Sea ice applications | Ellen Buckley  | 
-| 10:15-11:00 AM | tutorial session: Data filtering and visualization, Part 2 | Johan Nilsson  |
+| 10:15-11:00 AM | tutorial session: Data filtering and visualization | Johan Nilsson  |
 | 11:15-11:30 AM | Virtual stand-up | Charley Haley | 
 | 12:30 - 2:30 PM | hacking (instructors available) |   | 
 
