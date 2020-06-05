@@ -23,7 +23,7 @@ Harassment includes, but is not limited to:
 
 ## Expectations
 
-We expect participants and instructors to act in ways that support a learning community at all event venues and event-related social activities. We expect you to support collaboration and learning while visiting University of Washington's many communities of practice. Participants asked to stop any harassing behavior are expected to comply immediately. Failure to comply may result in the participant being expelled from the event without refund at the discretion of the organizers.
+We expect participants and instructors to act in ways that support a learning community at all event venues and event-related social activities, both online and in person. We expect you to support collaboration and learning while participating in the University of Washington's many communities of practice. Participants asked to stop any harassing behavior are expected to comply immediately. Failure to comply may result in the participant being expelled from the event without refund at the discretion of the organizers.
 
 Ways to provide feedback and insights or address unethical or unprofessional behavior at our event:
 
