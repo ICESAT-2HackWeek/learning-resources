@@ -78,6 +78,11 @@
 
 * *Affiliation*: UW Civil and Environmental Engineering
 * *Ask me about*:
+	* Geospatial data analysis
+	* Digital Elevation Models (DEMs)
+	* Python
+	* Jupyter
+	* Git and Github
 
 ## Ian Joughin
 
