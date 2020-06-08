@@ -2,7 +2,7 @@
 
 ## Monday June 8 
 
-### 9:00 to 10:30 AM: Introductory Session 
+### 9:00 to 10:30 AM PDT: Introductory Session 
 
 *Lead Instructors: Anthony Arendt and Charley Haley*
 
@@ -14,7 +14,7 @@
 * Code of conduct and setting norms of positive learning environments
 * Introduction to open-source and open science
 
-### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data
+### 11:00 AM to 12:30 PM PDT: ICESat-2 Mission: Satellite, Sensor, and Data
 
 *Lead Instructor: Axel Schweiger*
 
