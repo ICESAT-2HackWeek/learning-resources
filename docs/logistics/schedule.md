@@ -41,13 +41,6 @@ Hackweek activities will be cancelled in honor of the [Strike for Black Lives](h
 
 ## TBD 
 
-### Tutorial #1: Git and GitHub
-
-*Lead Instructor: Fernando Perez*
-
-* fundamentals of version control 
-* specific ways we will use GitHub for the hackweek
-
 ### Tutorial #2: Jupyter and iPython
 
 *Lead Instructor: Lindsey Heagy*
@@ -55,13 +48,20 @@ Hackweek activities will be cancelled in honor of the [Strike for Black Lives](h
 * introduction to our shared computing environment
 * principles of open science 
 
-### 12:30 to 1:00 PM: Office hours
+### Office hours
 
 * have questions? Need help with the materials so far? Come chat with an instructor during office hours!
 
 ________________________________________________________
 
 ## Thursday June 11 
+
+### 9:00 to 10:30 AM: Git and GitHub
+
+*Lead Instructor: Fernando Perez*
+
+* fundamentals of version control 
+* specific ways we will use GitHub for the hackweek
 
 ### 10:00 to 11:00 AM: Office hours
 
