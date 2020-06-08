@@ -45,20 +45,7 @@ ________________________________________________________
 
 ## Wednesday June 10
 
-Hackweek activities will be cancelled in honor of the [Strike for Black Lives](https://www.particlesforjustice.org/) and [ShutDownSTEM](https://www.shutdownstem.com/) Calls to Action. We will post additional resources in the coming days, and will work to ensure you are able to learn content in our Tutorials #1 and #2.
-
-## TBD 
-
-### Tutorial #2: Jupyter and iPython
-
-*Lead Instructor: Lindsey Heagy*
-
-* introduction to our shared computing environment
-* principles of open science 
-
-### Office hours
-
-* have questions? Need help with the materials so far? Come chat with an instructor during office hours!
+Hackweek activities will be cancelled in honor of the [Strike for Black Lives](https://www.particlesforjustice.org/) and [ShutDownSTEM](https://www.shutdownstem.com/) Calls to Action. Wednesday's events have been rescheduled for Thursday, June 11. We will post additional resources in the coming days, and will work to ensure you are able to learn content in our Git/GitHub and Jupyter/iPython tutorials if you are unable to attend those live, rescheduled sessions.
 
 ________________________________________________________
 
@@ -74,6 +61,17 @@ ________________________________________________________
 ### 10:00 to 11:00 AM: Office hours
 
 * have questions? Need help with the materials so far? Come chat with an instructor during office hours!
+
+### 11:00 to 12:30 AM: Jupyter and iPython
+
+*Lead Instructor: Lindsey Heagy/Fernando Perez*
+
+* introduction to our shared computing environment
+* principles of open science 
+
+### 12:30 to 1:00 PM: Office hours
+
+* have questions? Need help with the materials so far? Come chat with an instructor during office hours! And of course get in touch on Slack too - we know the continuous/overlapping sessions could make for a long day, so be sure to take care of yourself and don't feel like you need to attend every moment!
 
 ________________________________________________________
 
