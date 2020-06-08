@@ -27,7 +27,7 @@ We expect participants and instructors to act in ways that support a learning co
 
 Here are ways to provide feedback and insights or address unethical or unprofessional behavior at our event:
 
-If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to icesat@uw.edu, or contact an organizer on a private Slack channel.
+If you feel comfortable contacting someone associated with our event, you may speak with one of the event organizers in person, send an e-mail to icesat@uw.edu, or contact an organizer on a private Slack channel. You may also submit an anonymous comment to our [virtual comment box](https://docs.google.com/forms/d/e/1FAIpQLSfHRKWPVHRVX91veinbNHm-2dPl29JLJ9diO1wTkTJ0FKKbzQ/viewform).
 
 If you have experienced or observed harassment, unethical or unprofessional behavior as described above (a violation of this code of conduct) and want to talk to someone not directly associated with our event about it, choose from these specialists below:
 
