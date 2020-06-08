@@ -35,6 +35,14 @@ All times listed below are UTC -7 (Pacific Daylight Time). You might want to con
 
 ________________________________________________________
 
+## Tuesday June 9
+
+### 10:00-11:00 PM: Office hours
+
+* have questions? Need help with the materials so far? Come chat with an instructor during office hours!
+
+________________________________________________________
+
 ## Wednesday June 10
 
 Hackweek activities will be cancelled in honor of the [Strike for Black Lives](https://www.particlesforjustice.org/) and [ShutDownSTEM](https://www.shutdownstem.com/) Calls to Action. We will post additional resources in the coming days, and will work to ensure you are able to learn content in our Tutorials #1 and #2.
