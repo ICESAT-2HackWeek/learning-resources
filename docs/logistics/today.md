@@ -1,26 +1,8 @@
 # Daily ICESat-2 Hackweek Page
 
-## Monday June 8 
+## Tuesday June 9
 
-### 9:00 to 10:30 AM PDT: Introductory Session 
+### 10:00-11:00 AM: Office hours
 
-*Lead Instructors: Anthony Arendt and Charley Haley*
+* have questions? Need help with the materials so far? Come chat with an instructor during office hours!
 
-* Icebreaker
-* Provide overall schedule
-* Help people get connected
-* Explain how will this be different from an in-person event
-* Technology overview and check-in on accessibility
-* Code of conduct and setting norms of positive learning environments
-* Introduction to open-source and open science
-
-### 11:00 AM to 12:30 PM PDT: ICESat-2 Mission: Satellite, Sensor, and Data
-
-*Lead Instructor: Axel Schweiger*
-
-* Welcome by the NASA Cryosphere Program Manager (*Thorsten Markus*)
-* intro to the ICESat-2 mission (*Tom Neumann*)
-    * instrument design, measurement principles, ground tracks
-* ICESat-2 data products (*Ben Smith*)
-    * overview of product levels, names and potential science uses
-    * release schedule and products yet to be posted
