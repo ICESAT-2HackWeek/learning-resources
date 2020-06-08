@@ -24,6 +24,8 @@ All times listed below are UTC -7 (Pacific Daylight Time). You might want to con
 
 ### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data
 
+*Lead Instructor: Axel Schweiger*
+
 * Welcome by the NASA Cryosphere Program Manager (*Thorsten Markus*)
 * intro to the ICESat-2 mission (*Tom Neumann*)
     * instrument design, measurement principles, ground tracks
