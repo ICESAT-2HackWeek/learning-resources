@@ -12,6 +12,11 @@ Here are some quick links to material for our upcoming June 2020 event:
 * [the Pangeo Hub](http://icesat-2.hackweek.io/): link for accessing the Pangeo deployment. 
 * [Getting Help Decision Tree](https://drive.google.com/file/d/15lneuM6zIwjebq7BaHOdGMLZIVLXGjL6/view?usp=sharing): figure to help you determine the best place to get help.
 
+
+## What inspires the 2020 hackweek community?
+
+![world-cloud-what-inspires-us](img/word-cloud-1.png)
+
 ## What is a hackweek?
 
 Hackweeks were originally designed by the University of Washington's [eScience Institute](https://escience.washington.edu/), and they aim to provide a welcoming learning environment where you can learn new software tools, collaborate with colleagues, build community and make progress on specific projects. Our [hackweek model](https://arxiv.org/abs/1711.00028) is constantly evolving and we invite you actively participate as we experiment with new approaches and ideas.
