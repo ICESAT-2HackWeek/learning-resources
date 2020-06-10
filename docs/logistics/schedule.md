@@ -45,8 +45,7 @@ ________________________________________________________
 
 ## Wednesday June 10
 
-Hackweek activities will be cancelled in honor of the [Strike for Black Lives](https://www.particlesforjustice.org/) and [ShutDownSTEM](https://www.shutdownstem.com/) Calls to Action. Wednesday's events have been rescheduled for Thursday, June 11. We will post additional resources in the coming days, and will work to ensure you are able to learn content in our Git/GitHub and Jupyter/iPython tutorials if you are unable to attend those live, rescheduled sessions.
-
+Hackweek activities will be cancelled in honor of the [Strike for Black Lives](https://www.particlesforjustice.org/) and [ShutDownSTEM](https://www.shutdownstem.com/) Calls to Action. Wednesday's events have been rescheduled for Thursday, June 11. 
 ________________________________________________________
 
 ## Thursday June 11 
@@ -55,8 +54,9 @@ ________________________________________________________
 
 *Lead Instructor: Fernando Perez*
 
-* fundamentals of version control 
-* specific ways we will use GitHub for the hackweek
+* Clone this **[intro-git](https://github.com/ICESAT-2HackWeek/intro-git)** repository to your local directory to follow along during the tutorial.
+
+* [Slides for this lesson](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
 
 ### 10:00 to 11:00 AM: Office hours
 
@@ -64,10 +64,10 @@ ________________________________________________________
 
 ### 11:00 to 12:30 AM: Jupyter and iPython
 
-*Lead Instructor: Lindsey Heagy/Fernando Perez*
+*Lead Instructor: Fernando Perez*
 
-* introduction to our shared computing environment
-* principles of open science 
+* Clone this **[intro-jupyter](https://github.com/ICESAT-2HackWeek/intro-jupyter)** repository to your local directory to follow along during the tutorial.
+
 
 ### 12:30 to 1:00 PM: Office hours
 
