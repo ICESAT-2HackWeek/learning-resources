@@ -83,6 +83,8 @@ ________________________________________________________
 
 *Lead Instructor: David Shean*
 
+* Clone this **[geospatial-analysis](https://github.com/ICESAT-2HackWeek/geospatial-analysis)** repository to your local directory to follow along during the tutorial.
+
 * core Python tools we will be using throughout the Hackweek
 * simple examples using data from the GLAS instrument
 
