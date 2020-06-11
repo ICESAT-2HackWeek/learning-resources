@@ -21,18 +21,22 @@ All times listed below are UTC -7 (Pacific Daylight Time). You might want to con
 * Technology overview and check-in on accessibility
 * Code of conduct and setting norms of positive learning environments
 * Introduction to open-source and open science
+* [Slides for this talk](https://docs.google.com/presentation/d/1kNc6u4mz9qt5TI-DCosSL6jZ5M7q_k3godlBrOE891c/edit?usp=sharing)
 
 ### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data]
 
 *Lead Instructor: Axel Schweiger*
+
 [Video recording of this session](https://www.youtube.com/watch?v=0guml7ihfdA)
 
 * Welcome by the NASA Cryosphere Program Manager (*Thorsten Markus*)
 * intro to the ICESat-2 mission (*Tom Neumann*)
     * instrument design, measurement principles, ground tracks
+    * [Slides for this talk](https://drive.google.com/file/d/17xLbjUdTlQK_cAhmWY0EiK2cSc7vsO0Z/view?usp=sharing)
 * ICESat-2 data products (*Ben Smith*)
     * overview of product levels, names and potential science uses
     * release schedule and products yet to be posted
+    * [Slides for this talk](https://drive.google.com/file/d/1g4y69M9O9Y7XYSsoWD9ed_08ZMQjKBP9/view?usp=sharing)
 
 ________________________________________________________
 
