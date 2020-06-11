@@ -69,6 +69,8 @@ ________________________________________________________
 
 * Clone this **[intro-jupyter](https://github.com/ICESAT-2HackWeek/intro-jupyter)** repository to your local directory to follow along during the tutorial.
 
+* [Slides for this lesson](https://docs.google.com/presentation/d/1TfY7rnCuGQDrlvsf2-P9lNADT2vwiJsdb7vmgZ3SDmA/edit?usp=sharing)
+
 ### 12:30 to 1:00 PM: Office hours
 
 * have questions? Need help with the materials so far? Come chat with an instructor during office hours! And of course get in touch on Slack too - we know the continuous sessions could make for a long day, so be sure to take care of yourself and don't feel like you need to attend every moment!
