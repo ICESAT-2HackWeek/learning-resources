@@ -32,11 +32,11 @@ All times listed below are UTC -7 (Pacific Daylight Time). You might want to con
 * Welcome by the NASA Cryosphere Program Manager (*Thorsten Markus*)
 * intro to the ICESat-2 mission (*Tom Neumann*)
     * instrument design, measurement principles, ground tracks
-    * [Slides for this talk](https://drive.google.com/file/d/17xLbjUdTlQK_cAhmWY0EiK2cSc7vsO0Z/view?usp=sharing)
+    * [Slides for this talk](https://github.com/ICESAT-2HackWeek/intro_ICESat2/blob/master/HackWeekIntroNeumann2020.pptx)
 * ICESat-2 data products (*Ben Smith*)
     * overview of product levels, names and potential science uses
     * release schedule and products yet to be posted
-    * [Slides for this talk](https://drive.google.com/file/d/1g4y69M9O9Y7XYSsoWD9ed_08ZMQjKBP9/view?usp=sharing)
+    * [Slides for this talk](https://github.com/ICESAT-2HackWeek/intro_ICESat2/blob/master/ICESat-2_data_products_Hackweek2020.pptx)
 
 ________________________________________________________
 
