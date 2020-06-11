@@ -11,7 +11,7 @@ The project scientist will lead a hackweek [project](https://icesat-2hackweek.gi
 * oversee data management; be sure you have permission and consent to use data you share in the project and follow professional standards while using data for training that may be used in future publications. [Here](https://ethics.agu.org/) is a good resource on publication of data and consent ethics. 
 * facilitate team work.
 * coordinate team activities and code to answer the reserch question; data, code, and tools originally proposed may change.    
-* make sure that everyone partcipates in the project.  
+* make sure that everyone participates in the project.  
 * support each individual on your team to meeting their individual goals.
 
 ## Tutor / Moderator
