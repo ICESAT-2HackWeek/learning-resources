@@ -22,9 +22,10 @@ All times listed below are UTC -7 (Pacific Daylight Time). You might want to con
 * Code of conduct and setting norms of positive learning environments
 * Introduction to open-source and open science
 
-### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data
+### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data]
 
 *Lead Instructor: Axel Schweiger*
+[Video recording of this session](https://www.youtube.com/watch?v=0guml7ihfdA)
 
 * Welcome by the NASA Cryosphere Program Manager (*Thorsten Markus*)
 * intro to the ICESat-2 mission (*Tom Neumann*)
@@ -58,20 +59,15 @@ ________________________________________________________
 
 * [Slides for this lesson](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
 
-### 10:00 to 11:00 AM: Office hours
-
-* have questions? Need help with the materials so far? Come chat with an instructor during office hours!
-
 ### 11:00 to 12:30 AM: Jupyter and iPython
 
 *Lead Instructor: Fernando Perez*
 
 * Clone this **[intro-jupyter](https://github.com/ICESAT-2HackWeek/intro-jupyter)** repository to your local directory to follow along during the tutorial.
 
-
 ### 12:30 to 1:00 PM: Office hours
 
-* have questions? Need help with the materials so far? Come chat with an instructor during office hours! And of course get in touch on Slack too - we know the continuous/overlapping sessions could make for a long day, so be sure to take care of yourself and don't feel like you need to attend every moment!
+* have questions? Need help with the materials so far? Come chat with an instructor during office hours! And of course get in touch on Slack too - we know the continuous sessions could make for a long day, so be sure to take care of yourself and don't feel like you need to attend every moment!
 
 ________________________________________________________
 
