@@ -23,7 +23,7 @@ All times listed below are UTC -7 (Pacific Daylight Time). You might want to con
 * Introduction to open-source and open science
 * [Slides for this talk](https://docs.google.com/presentation/d/1kNc6u4mz9qt5TI-DCosSL6jZ5M7q_k3godlBrOE891c/edit?usp=sharing)
 
-### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data]
+### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data
 
 *Lead Instructor: Axel Schweiger*
 
@@ -59,6 +59,8 @@ ________________________________________________________
 
 *Lead Instructor: Fernando Perez*
 
+[Video recording of this session](https://youtu.be/O2lLC_s_d20)
+
 * Clone this **[intro-git](https://github.com/ICESAT-2HackWeek/intro-git)** repository to your local directory to follow along during the tutorial.
 
 * [Slides for this lesson](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
@@ -66,6 +68,8 @@ ________________________________________________________
 ### 11:00 to 12:30 AM: Jupyter and iPython
 
 *Lead Instructor: Fernando Perez*
+
+[Video recording of this session](https://youtu.be/Jft9-RnmH1Y)
 
 * Clone this **[intro-jupyter](https://github.com/ICESAT-2HackWeek/intro-jupyter)** repository to your local directory to follow along during the tutorial.
 
