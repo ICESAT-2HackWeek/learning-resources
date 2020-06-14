@@ -23,7 +23,7 @@ All times listed below are UTC -7 (Pacific Daylight Time). You might want to con
 * Introduction to open-source and open science
 * [Slides for this talk](https://docs.google.com/presentation/d/1kNc6u4mz9qt5TI-DCosSL6jZ5M7q_k3godlBrOE891c/edit?usp=sharing)
 
-### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data]
+### 11:00 AM to 12:30 PM: ICESat-2 Mission: Satellite, Sensor, and Data
 
 *Lead Instructor: Axel Schweiger*
 
@@ -59,6 +59,8 @@ ________________________________________________________
 
 *Lead Instructor: Fernando Perez*
 
+[Video recording of this session](https://youtu.be/O2lLC_s_d20)
+
 * Clone this **[intro-git](https://github.com/ICESAT-2HackWeek/intro-git)** repository to your local directory to follow along during the tutorial.
 
 * [Slides for this lesson](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
@@ -67,7 +69,11 @@ ________________________________________________________
 
 *Lead Instructor: Fernando Perez*
 
+[Video recording of this session](https://youtu.be/Jft9-RnmH1Y)
+
 * Clone this **[intro-jupyter](https://github.com/ICESAT-2HackWeek/intro-jupyter)** repository to your local directory to follow along during the tutorial.
+
+* [Slides for this lesson](https://docs.google.com/presentation/d/1TfY7rnCuGQDrlvsf2-P9lNADT2vwiJsdb7vmgZ3SDmA/edit?usp=sharing)
 
 ### 12:30 to 1:00 PM: Office hours
 
@@ -81,14 +87,22 @@ ________________________________________________________
 
 *Lead Instructor: David Shean*
 
+* Clone this **[geospatial-analysis](https://github.com/ICESAT-2HackWeek/geospatial-analysis)** repository to your local directory to follow along during the tutorial.
+
 * core Python tools we will be using throughout the Hackweek
 * simple examples using data from the GLAS instrument
 
 ### 11:30 to 12:30 PM: Introduction to ICESat-2 Sea Ice and Land Ice Products and Data Access
 
 * Sea ice products: overview of products, algorithms, and parameters for sea ice investigations (*Lead Instructor: Alek Petty*)
+
+* slides for the [sea ice lesson](https://drive.google.com/file/d/1e3VFvBRBHcY5_gjEyWVjA-l7tL2K4HfQ/view?usp=sharing)
+
 * Land ice products: overview of products, algorithms, and parameters for land ice investigations (*Lead Instructor: Ben Smith*)
+
 * ICEsat-2 data access: basic data explore and visualization in OpenAltimetry (*Lead Instructors: Jessica Scheick and Amy Steiker*)
+
+* slides for the [data access lesson](https://nbviewer.jupyter.org/github/ICESAT-2HackWeek/data-access/blob/master/notebooks/01-Data_Resources_Intro.ipynb)
 
 ### 1:00 to 2:00 PM: Introduction to Projects
 
@@ -120,8 +134,8 @@ ________________________________________________________
 | --------- | ------------- | ------------- | 
 | 9:00-10:00 AM | tutorial session (concurrent) Land ice applications |  Ben Smith  |
 | 9:00-10:00 AM | tutorial session (concurrent) Sea ice applications | Ellen Buckley  | 
-| 10:15-11:00 AM | tutorial session: Data filtering and visualization | Johan Nilsson  |
-| 11:15-11:30 AM | Virtual stand-up | Charley Haley | 
+| 10:15-11:00 AM | tutorial session: Science data generation | Johan Nilsson  |
+| 11:15-11:45 AM | Virtual stand-up | Charley Haley | 
 | 12:30 - 2:30 PM | hacking (instructors available) |   | 
 
 Hacking can continue into other times depending on team availability.
@@ -133,7 +147,7 @@ ________________________________________________________
 | Time  |  Activity           | Lead | 
 | --------- | ------------- | ------------- | 
 | 9:00-10:30 AM | Machine learning | Yara Mohajerani and Shane Grigsby |
-| 11:00-11:15 AM | Virtual stand-up | | 
+| 11:00-11:30 AM | Virtual stand-up | | 
 | hacking (instructors available) | 11:30 - 2:00 PM  PDT |
 
 Hacking can continue into other times depending on team availability.

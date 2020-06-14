@@ -16,24 +16,23 @@ Hacking is a session of focused, highly collaborative computer programming, in w
 
 ## Why is this important?
 
-Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. At waterhackweek, our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
+Increasingly, research and software development is being conducted across groups of people with diverse skills and backgrounds. We believe this collaborative work leads to more innovative solutions to complex problems. At CSI-2020 Hackweek, our goal is to explore with you some of the skills needed to navigate technical and social challenges of working in these kinds of collaborative settings.
 
 ## How will the projects be conducted?
 
-* on day 1 we will facilitate the sharing of ideas and formation of people into small teams (2-5 people)
+* Participants have already posted initial ideas for projects in the #project_ideas channel. On Friday, June 12 we will begin the formation of preliminary teams of  (3-7 people) around project ideas. We will finalize the teams and project roles during our session on Monday, June 15th. Group "Hacking" begins immediately afterwards. 
 * each team will identify:
-  * a project lead, likely the person who pitched the idea, who has knowledge of the datasets and the specific problem to be explored
-  * a data science lead from the pool of waterhack instructors who has expertise in the data tools and methods
+  * a project lead, likely the person who pitched the idea, who has knowledge of the datasets and the specific problem to be explored. But roles can be assigned as the group decides to best fit skills and needs. 
+  * a data science lead from the pool of CSI-2020 instructors who has expertise in the data tools and methods
 * once formed, each team will be guided through exercises to help narrow in on a set of tasks that are doable within the 5 days. A brief project outline will be posted to GitHub, following the "Project Guidelines" below.
-* Each morning will start with a daily stand-up meeting to check-in on progress and challenges
-* On day 3 we will have a mid-week project check-in
-* On day 5 each team will present their work in a series of lightning talks.
+* On the mornings of June 16th, and 17th we will have a daily stand-up meeting to check-in on progress and challenges
+* On Thursday June 18th each team will present their work in a series of lightning talks.
 
 ## What can I do to prepare in advance?
 
-* if you have a project idea already brewing, we encourage you to share that with the team on our general Slack channel. 
+* if you have a project idea already brewing, we encourage you to share that with participants on our #project_ideas channel. 
 * feel free to explore various projects and initiate conversations. The goal is to gather as much information as you can to inform your decision about which team to join when we meet in person.
-* contact a waterhack organizer if you would like assistance in assessing whether a project is well-scoped, or if you need help with a particular dataset.
+* contact a CSI-2020 organizer if you would like assistance in assessing whether a project is well-scoped, or if you need help with a particular dataset.
 
 ## Project guidelines
 

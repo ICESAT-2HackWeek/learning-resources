@@ -1,23 +1,12 @@
 # Daily ICESat-2 Hackweek Page
 
-## Thursday June 11, 2020
+## Monday June 15: Hack-day #1
 
-### 9:00 to 10:30 AM: Git and GitHub
+| Time  |  Activity           | Lead | 
+| --------- | ------------- | ------------- | 
+| 9:00 to 10:00 AM  | tutorial session: Programmatic ICESat-2 data access |  Jessica Scheick and Amy Steiker | 
+| 10:30 to 11:30 AM | tutorial session: Introduction to HDF5 and ICESat-2 data files | Fernando Paolo  | 
+| 11:45 AM to 12:45 PM | project formation | Anthony Arendt | 
+| 1:30 to 3:00 PM | hacking (instructors available) |   | 
 
-*Lead Instructor: Fernando Perez*
-
-* Clone this **[intro-git](https://github.com/ICESAT-2HackWeek/intro-git)** repository to your local directory to follow along during the tutorial.
-
-* [Slides for this lesson](https://docs.google.com/presentation/d/1pOWte7V5UbnVBvRktvLbLTRluDwrGbXtIdAZhzAd1AE/edit?usp=sharing)
-
-### 10:30 to 11:00 AM: Break
-
-### 11:00 to 12:30 AM: Jupyter and iPython
-
-*Lead Instructor: Fernando Perez*
-
-* Clone this **[intro-jupyter](https://github.com/ICESAT-2HackWeek/intro-jupyter)** repository to your local directory to follow along during the tutorial.
-
-### 12:30 to 1:00 PM: Office hours
-
-* have questions? Need help with the materials so far? Come chat with an instructor during office hours! And of course get in touch on Slack too - we know the continuous/overlapping sessions could make for a long day, so be sure to take care of yourself and don't feel like you need to attend every moment!
+Hacking can continue into other times depending on team availability.
