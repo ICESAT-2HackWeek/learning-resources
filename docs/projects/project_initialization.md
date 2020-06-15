@@ -10,7 +10,7 @@ The project lead(s) should do the following:
 1. Invite your team members Slack members
 
 ### Create a new Github repo within the ICESat-2 Organization:
-1. Go to: https://github.com/ICESAT-2HackWeek
+1. Go to: [https://github.com/ICESAT-2HackWeek](https://github.com/ICESAT-2HackWeek)
 1. Click the green “New” button on right side of page
 1. Select the sample_project_repository template
 1. Use short project name
@@ -19,7 +19,7 @@ The project lead(s) should do the following:
 1. Add .gitignore -> Python
 
 ### Create a new Github team within the ICESat-2 Organization:
-1. Go to: https://github.com/orgs/ICESAT-2HackWeek/teams (or click the “Teams” tab near the top of the Org page)
+1. Go to: [https://github.com/orgs/ICESAT-2HackWeek/teams](https://github.com/orgs/ICESAT-2HackWeek/teams) (or click the “Teams” tab near the top of the Org page)
 1. Click green “New team” button
 1. Use short project name for “Team name”
 1. Add all team members - Click “Members” tab and green “Add a member” button
