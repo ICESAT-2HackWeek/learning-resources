@@ -1,12 +1,13 @@
 # Daily ICESat-2 Hackweek Page
 
-## Monday June 15: Hack-day #1
+## Tuesday June 16: Hack-day #2
 
 | Time  |  Activity           | Lead | 
 | --------- | ------------- | ------------- | 
-| 9:00 to 10:00 AM  | tutorial session: [Programmatic ICESat-2 data access](https://github.com/ICESAT-2HackWeek/data-access) |  Jessica Scheick and Amy Steiker | 
-| 10:30 to 11:30 AM | tutorial session: [Introduction to HDF5 and ICESat-2 data files](https://github.com/ICESAT-2HackWeek/intro-hdf5) | Fernando Paolo  | 
-| 11:45 AM to 12:45 PM | project formation | Anthony Arendt | 
-| 1:30 to 3:00 PM | hacking (instructors available) |   | 
+| 9:00-10:00 AM | tutorial session (concurrent) [Land ice applications](https://github.com/ICESAT-2HackWeek/Land_Ice_Applications) |  Ben Smith  |
+| 9:00-10:00 AM | tutorial session (concurrent) [Sea ice applications](https://github.com/ICESAT-2HackWeek/sea-ice-tutorials) | Ellen Buckley  | 
+| 10:15-11:00 AM | tutorial session: [Science data generation](https://github.com/ICESAT-2HackWeek/ScienceDataGeneration) | Johan Nilsson  |
+| 11:15-11:45 AM | Virtual stand-up | Charley Haley | 
+| 12:30 - 2:30 PM | hacking (instructors available) |   | 
 
 Hacking can continue into other times depending on team availability.
