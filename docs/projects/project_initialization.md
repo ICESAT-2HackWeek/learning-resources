@@ -12,11 +12,9 @@ The project lead(s) should do the following:
 ### Create a new Github repo within the ICESat-2 Organization:
 1. Go to: [https://github.com/ICESAT-2HackWeek](https://github.com/ICESAT-2HackWeek)
 1. Click the green “New” button on right side of page
-1. Select the sample_project_repository template
+1. Select the "ICESAT-2HackWeek/sample_project_repository" template
 1. Use short project name
-1. Public is ideal, can be Private for now and made public at end of event
-1. Click “Initialize with a README”
-1. Add .gitignore -> Python
+1. Public is ideal (so other participants can follow progress). Can also select Private for now and make Public before final presentation.
 
 ### Create a new Github team within the ICESat-2 Organization:
 1. Go to: [https://github.com/orgs/ICESAT-2HackWeek/teams](https://github.com/orgs/ICESAT-2HackWeek/teams) (or click the “Teams” tab near the top of the Org page)
