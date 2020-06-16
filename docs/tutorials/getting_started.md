@@ -52,7 +52,7 @@ Follow along with the tutorial. You can save your notes (if you're taking some i
 
 If additional changes were made to the origin master tutorial, you can checkout the master branch `$ git checkout master` and repeat step 3 to get the latest content.
 
-*** Please note: the Pangeo JupyterHub you are using for this Hackweek should not be relied upon to save your documents beyond the duration of the Hackweek, and will be removed a few weeks after the Hackweek. Thus, you MUST complete Step 7 to save the changes to your local machine if you would like continued access to them. ***
+*** Please note: the Pangeo JupyterHub you are using for this Hackweek should not be relied upon to save your documents beyond the duration of the Hackweek, and will be removed a few weeks after the Hackweek. Thus, for any non-repository changes or repository changes that have not been pushed to GitHub, you MUST complete Step 4 to save the files to your local machine if you would like continued access to them. ***
 
 
 ----
