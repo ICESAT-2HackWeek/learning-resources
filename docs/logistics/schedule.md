@@ -87,12 +87,16 @@ ________________________________________________________
 
 *Lead Instructor: David Shean*
 
+[Video recording of this session](https://youtu.be/46vxJYqUMsM)
+
 * Clone this **[geospatial-analysis](https://github.com/ICESAT-2HackWeek/geospatial-analysis)** repository to your local directory to follow along during the tutorial.
 
 * core Python tools we will be using throughout the Hackweek
 * simple examples using data from the GLAS instrument
 
 ### 11:30 to 12:30 PM: Introduction to ICESat-2 Sea Ice and Land Ice Products and Data Access
+
+[Video recording of this session](https://youtu.be/UH9t3Fn7lN0)
 
 * Sea ice products: overview of products, algorithms, and parameters for sea ice investigations (*Lead Instructor: Alek Petty*)
 
@@ -125,6 +129,9 @@ ________________________________________________________
 | 1:30 to 3:00 PM | hacking (instructors available) |   | 
 
 Hacking can continue into other times depending on team availability.
+
+[Video recording of data access session](https://youtu.be/RJNSDVnfGvU)
+[Video recording of data files session](https://youtu.be/-sEDiMEne3k)
 
 ________________________________________________________
 
