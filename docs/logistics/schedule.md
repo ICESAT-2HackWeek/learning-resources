@@ -149,6 +149,12 @@ ________________________________________________________
 
 Hacking can continue into other times depending on team availability.
 
+[Video recording of land ice applications session](https://youtu.be/qtkVd2xc-U8)
+
+[Video recording of sea ice applications session](https://youtu.be/zl-qifVcPV4)
+
+[Video recording of Science Data Generation session](https://www.youtube.com/watch?v=PZlGcI3SMts)
+
 ________________________________________________________
 
 ## Wednesday June 17: Hack-day #3
