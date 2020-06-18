@@ -5,7 +5,7 @@
 | Time  |  Activity           | 
 | --------- | ------------- | 
 |  9:00-11:30 AM  | hacking (instructors available) |
-| 12:00 - 12:15 PM | Seasonal Snow |
+| 12:00 - 12:15 PM | Assimilation | 
 | 12:15 - 12:30 PM | unsupervised |
 | 12:30 - 12:45 PM | FirnAndMelt |
 | 12:45 - 1:00 PM | leading_to_phytoplankton |
@@ -15,6 +15,6 @@
 | 1:45 - 2:00 PM | overcast |
 | 2:00 - 2:15 PM | crossovers | 
 | 2:15 - 2:30 PM | surface_velocity | 
-| 2:30 - 2:45 PM | Assimilation | 
+| 2:30 - 2:45 PM | Seasonal Snow | 
 | 2:45 - 3:00 PM | closing comments | 
 | 3:00 - ? | informal virtual gathering | 
