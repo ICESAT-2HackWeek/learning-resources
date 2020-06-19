@@ -165,7 +165,8 @@ ________________________________________________________
 | 11:00-11:30 AM | Virtual stand-up | | 
 | hacking (instructors available) | 11:30 - 2:00 PM  PDT |
 
-Hacking can continue into other times depending on team availability.
+[Video recording of Machine Learning session](https://www.youtube.com/watch?v=GQ2RSOSOmdU)
+
 ________________________________________________________
 
 ## Thursday June 18: Hack-day #4 and Presentations
