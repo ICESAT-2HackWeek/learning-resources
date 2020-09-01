@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Getting Started - ICESat-2 Hackweek Learning Resources</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  <link href="../../css/extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Getting Started";
+    var mkdocs_page_input_path = "tutorials/getting_started.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> ICESat-2 Hackweek Learning Resources</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Overview</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Conduct</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/conduct/">Code of Conduct</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/community/">Learning Community</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Logistics</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/today/">Today's Activitites</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/schedule/">Hackweek Schedule</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/technology/">Learning Technologies</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/getting_help/">Getting Help</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/ourTeam/">Our Team</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Preliminary Steps</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../preliminary/github/">GitHub account</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../preliminary/jupyterhub/">JupyterHub connection</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../preliminary/conda/">Python installation</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../preliminary/earthdata/">Earthdata login</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tutorials</span></p>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Getting Started</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#start-pangeo-in-your-browser">Start Pangeo in your browser</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#step-1">Step 1</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-2">Step 2</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-3">Step 3</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#get-a-local-copy-of-the-tutorial-and-follow-along">Get a local copy of the tutorial and follow along</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#step-1_1">Step 1</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-2_1">Step 2</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-3_1">Step 3</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#step-4">Step 4</a>
+    </li>
+        </ul>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../github/">Introduction to GitHub</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../jupyter/">Introduction to Jupyter</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../python/">Introduction to Python</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/overview/">Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/project_roles/">Project Roles and Responsibilities</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/project_initialization/">Project Initialization</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/example_workflow/">Project Example Github Workflow and Data Sharing</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/2019_projects/">2019 Hackweek Projects</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Reference</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../reference/VocabAcronyms/">Vocabulary and Acronyms</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../reference/conda-env/">Custom Environments in JupyterHub</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">About</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../about/howtocontribute/">How to Contribute</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">ICESat-2 Hackweek Learning Resources</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Tutorials &raquo;</li>
+        
+      
+    
+    <li>Getting Started</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/icesat-2hackweek/learning-resources/edit/master/docs/tutorials/getting_started.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="getting-started-on-a-tutorial">Getting started on a tutorial</h1>
+<p>These are instructions for getting a tutorial started on Pangeo (in your browser) and updating the tutorial. If you would like to take notes, please do so in an external document or your personal fork of the tutorial repository (if you know what that means).</p>
+<h2 id="start-pangeo-in-your-browser">Start Pangeo in your browser</h2>
+<h4 id="step-1">Step 1</h4>
+<p>Navigate to the <a href="http://icesat-2.hackweek.io/">Pangeo JupyterHub for ICESat-2 Hackweek 2020</a>.</p>
+<h4 id="step-2">Step 2</h4>
+<p>Sign in using your GitHub account, if you are not already signed in. (First time only: Grant the ICESat-2 Hackweek Organization permissions - this grants you access to the Pangeo computing environment for the Hackweek.)</p>
+<h4 id="step-3">Step 3</h4>
+<p>Start the Pangeo computing environement. It may take a few moments to start up.</p>
+<h2 id="get-a-local-copy-of-the-tutorial-and-follow-along">Get a local copy of the tutorial and follow along</h2>
+<p>This basic workflow allows you to follow along with tutorials while staying up-to-date with any changes made to the master tutorial.</p>
+<h4 id="step-1_1">Step 1</h4>
+<p>Navigate to the tutorial repository on <a href="https://github.com/ICESAT-2HackWeek">GitHub</a>.</p>
+<p>Clone the tutorial to your machine/Pangeo environment. You can easily copy the link to a repository by selecting the green "clone or download" dropdown and hitting the clipboard icon, which will automatically copy the link for you.</p>
+<p>Open a terminal (using the "plus" sign in your Pangeo JupyterHub) and execute:</p>
+<pre><code>$ git clone https://github.com/ICESAT-2HackWeek/geospatial-analysis.git
+$ cd geospatial-analysis  
+</code></pre>
+
+<p><em>Note: a more detailed version of step 1, including images, is available as part of the <a href="https://icesat-2hackweek.github.io/learning-resources/preliminary/jupyterhub/#how-do-i-get-my-code-in-and-out-of-pangeo">Preliminary Steps - JupyterHub Connection</a>.</em></p>
+<h4 id="step-2_1">Step 2</h4>
+<p>Add the origin master (a link to the tutorial repository you cloned) so we can stay up to date with any changes made to the main tutorial.</p>
+<pre><code>$ git remote add origin https://github.com/ICESAT-2HackWeek/geospatial-analysis.git
+</code></pre>
+
+<h4 id="step-3_1">Step 3</h4>
+<p>Update your local copy with any changes to the master copy. If you have tried to save notes or changes within your local copy of the notebook, this may cause conflicts. 
+Fetch and merge (using git pull) the latest changes from origin master.</p>
+<pre><code>$ git pull origin
+</code></pre>
+
+<h4 id="step-4">Step 4</h4>
+<p>Follow along with the tutorial. You can save your notes (if you're taking some in the Pangeo text editor) by downloading a copy to your local machine.</p>
+<p>If additional changes were made to the origin master tutorial, you can checkout the master branch <code>$ git checkout master</code> and repeat step 3 to get the latest content.</p>
+<p><strong><em> Please note: the Pangeo JupyterHub you are using for this Hackweek should not be relied upon to save your documents beyond the duration of the Hackweek, and will be removed a few weeks after the Hackweek. Thus, for any non-repository changes or repository changes that have not been pushed to GitHub, you MUST complete Step 4 to save the files to your local machine if you would like continued access to them. </em></strong></p>
+<hr />
+<p>Adapted from https://github.com/ICESAT-2HackWeek/topohack/wiki/Git-workflow-for-tutorials
+Originally from https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-with-upstream-repository-changes-10b76fad6d97</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../github/" class="btn btn-neutral float-right" title="Introduction to GitHub">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../../preliminary/earthdata/" class="btn btn-neutral" title="Earthdata login"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+          <a href="https://github.com/icesat-2hackweek/learning-resources/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
+      
+      
+        <span><a href="../../preliminary/earthdata/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../github/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Python installation - ICESat-2 Hackweek Learning Resources</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  <link href="../../css/extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Python installation";
+    var mkdocs_page_input_path = "preliminary/conda.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> ICESat-2 Hackweek Learning Resources</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Overview</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Conduct</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/conduct/">Code of Conduct</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/community/">Learning Community</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Logistics</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/today/">Today's Activitites</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/schedule/">Hackweek Schedule</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/technology/">Learning Technologies</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/getting_help/">Getting Help</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/ourTeam/">Our Team</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Preliminary Steps</span></p>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../github/">GitHub account</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../jupyterhub/">JupyterHub connection</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Python installation</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#overview">Overview</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#python-software">Python Software</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#what-is-conda">What is Conda?</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#installing-miniconda">Installing Miniconda</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#windows">Windows</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#linux-and-os-x">Linux and OS X</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#installing-anaconda-optional">Installing Anaconda (Optional)</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#installing-python">Installing Python</a>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../earthdata/">Earthdata login</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tutorials</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/getting_started/">Getting Started</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/github/">Introduction to GitHub</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/jupyter/">Introduction to Jupyter</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/python/">Introduction to Python</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/overview/">Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/project_roles/">Project Roles and Responsibilities</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/project_initialization/">Project Initialization</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/example_workflow/">Project Example Github Workflow and Data Sharing</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../projects/2019_projects/">2019 Hackweek Projects</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Reference</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../reference/VocabAcronyms/">Vocabulary and Acronyms</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../reference/conda-env/">Custom Environments in JupyterHub</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">About</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../about/howtocontribute/">How to Contribute</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">ICESat-2 Hackweek Learning Resources</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Preliminary Steps &raquo;</li>
+        
+      
+    
+    <li>Python installation</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/icesat-2hackweek/learning-resources/edit/master/docs/preliminary/conda.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="python-installation">Python Installation</h1>
+<h3 id="overview">Overview</h3>
+<p>What happens after the event when you want to go home and work with all the libraries ? You will likely also want to have a functioning version of Python on your local laptop if that is not already in place. So this lesson takes you through our recommended procedure for doing that. We suggest you get this set up in advance so that we can help you troubleshoot when you arrive.</p>
+<h3 id="python-software">Python Software</h3>
+<p>Python software is distributed as a series of <em>libraries</em> that are called within your code to perform certain tasks. There are many different collections, or <em>distributions</em> of Python software. Generally you install a specific distribution of Python and then add additional libraries as you need them. There are also several different <em>versions</em> of Python. The two main versions right now are 2.7 and 3.7, although Python 2.7 will not be supported past 2020. Some libraries only work with specific versions of Python.</p>
+<p>So even though Python is one of the most adaptable, easy-to-use software systems, you can see there are still complexities to work out and potential challenges when delivering content to a large group. Therefore we have a number of different ways that we are trying to simplify this process to maximize your learning during the hackweek.</p>
+<p>We also provide instructions for using <a href="https://www.continuum.io">Anaconda</a>, which is our recommended Python distribution, for installing and working with Python on your local computer. We can assist in setting up "conda" environments that will simplify the gathering of Python libraries and version specific to the tutorial you are working on.</p>
+<h3 id="what-is-conda">What is Conda?</h3>
+<p><a href="http://conda.pydata.org/docs/"><strong>Conda</strong></a> is an <strong>open source <code>package</code> and <code>environment</code> management system</strong> for installing multiple versions of software packages, their dependencies and switching easily between them. Conda works with many programming languages but is very popular in the python community. It works on Linux, OS X and Windows.</p>
+<h3 id="installing-miniconda">Installing Miniconda</h3>
+<h5 id="windows">Windows</h5>
+<p>Click <a href="http://conda.pydata.org/miniconda.html">here</a> to download the proper installer for your Windows platform (64 bits).
+We recommend to download the Python 3 version of Miniconda. You can still create Python 2 environments using the Python 3 version of Miniconda.</p>
+<p>When installing, you will be asked if you wish to make the Anaconda Python your default Python for Windows.
+If you do not have any other installation that is a good option. If you want to keep multiple versions of python on your machine (e.g. ESRI-supplied python, or 64 bit versions of Anaconda), then don't select the option to modify your path or modify your windows registry settings.</p>
+<h5 id="linux-and-os-x">Linux and OS X</h5>
+<p>You may follow manual steps from <a href="http://conda.pydata.org/miniconda.html">here</a> similar to the instructions on Windows (see above). Alternatively, you can execute these commands on a terminal shell (in this case, the bash shell):</p>
+<pre><code class="bash"># For MacOSX
+url=https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
+# For Linux
+url=https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+wget $url -O miniconda.sh
+bash miniconda.sh -b -p $HOME/miniconda
+export PATH=&quot;$HOME/miniconda/bin:$PATH&quot;
+conda update conda --yes
+</code></pre>
+
+<h3 id="installing-anaconda-optional">Installing Anaconda (Optional)</h3>
+<div class="admonition note">
+<p class="admonition-title">If you don't want all of Anaconda</p>
+<p>If you don't have time or disk space for the entire distribution do not install Anaconda. Install only <a href="http://conda.pydata.org/miniconda.html">Miniconda</a>, a bootstrap version of Anaconda, which contains only Python, essential packages, and conda. We will provide an environment file to install all the packages necessary for the hackweek.*</p>
+</div>
+<p><a href="https://www.anaconda.com/distribution/">Anaconda</a> is a data science platform that comes with a lot of packages. At its core, Anaconda uses the conda package management system.</p>
+<p>The list of packages included can be found <a href="https://docs.anaconda.com/anaconda/packages/pkg-docs"><em>here</em></a>.</p>
+<ol>
+<li>To install Anaconda, please click on the link below for your operating system, and follow the instructions on the <a href="https://www.anaconda.com/download/">site</a>.</li>
+<li>Once Anaconda installation step is finished run <code>python</code> in the command line to test if Anaconda is installed correctly. <strong>Note: For windows, please use the Anaconda prompt as the command line. It should be installed with your installation of Anaconda</strong>.
+If Anaconda is installed correctly, you should have this prompt, which emphasizes <strong>Anaconda</strong>:</li>
+</ol>
+<pre><code class="bash">$ python
+Python 3.7.3|Anaconda custom (x86_64)| (default, Mar 27 2019, 22:11:17)
+...
+</code></pre>
+
+<h3 id="installing-python">Installing Python</h3>
+<p>We will be using Python 3.6 or 3.7 during the week (either will work). Since Anaconda (on Linux) expects you to work in the <code>bash</code> shell, if this is not already your default shell, you need to set it to be so (use the <code>chsh -s /bin/bash</code> command to change your default shell to bash) or just run an instance of bash from the command line before issuing "Conda" commands (<code>/bin/bash</code> or where it is located on your system).</p>
+<p>If you are already familiar with Python 2.7, you can take a look at the syntax differences <a href="http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html">here</a>, but the main point to remember is to put the print statements in parentheses:</p>
+<pre><code class="python">print('Hello World!')
+</code></pre>
+
+<pre><code class="bash">$ conda create -n py37 python=3.7
+</code></pre>
+
+<p>To use Python 3.7: </p>
+<pre><code class="bash">$ conda activate py37
+</code></pre>
+
+<p>To check if you have the correct version: </p>
+<pre><code class="bash">$ python --version
+</code></pre>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../earthdata/" class="btn btn-neutral float-right" title="Earthdata login">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../jupyterhub/" class="btn btn-neutral" title="JupyterHub connection"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+          <a href="https://github.com/icesat-2hackweek/learning-resources/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
+      
+      
+        <span><a href="../jupyterhub/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../earthdata/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>

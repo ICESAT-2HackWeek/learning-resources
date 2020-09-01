@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  
+  
+  <link rel="shortcut icon" href="../../img/favicon.ico">
+  <title>Project Example Github Workflow and Data Sharing - ICESat-2 Hackweek Learning Resources</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="../../css/theme.css" />
+  <link rel="stylesheet" href="../../css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  <link href="../../css/extra.css" rel="stylesheet" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Project Example Github Workflow and Data Sharing";
+    var mkdocs_page_input_path = "projects/example_workflow.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="../../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="../.." class="icon icon-home"> ICESat-2 Hackweek Learning Resources</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../..">Overview</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Conduct</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/conduct/">Code of Conduct</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../conduct/community/">Learning Community</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Logistics</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/today/">Today's Activitites</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/schedule/">Hackweek Schedule</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/technology/">Learning Technologies</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/getting_help/">Getting Help</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../logistics/ourTeam/">Our Team</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Preliminary Steps</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../preliminary/github/">GitHub account</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../preliminary/jupyterhub/">JupyterHub connection</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../preliminary/conda/">Python installation</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../preliminary/earthdata/">Earthdata login</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Tutorials</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/getting_started/">Getting Started</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/github/">Introduction to GitHub</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/jupyter/">Introduction to Jupyter</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../tutorials/python/">Introduction to Python</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Projects</span></p>
+                <ul class="current">
+                    <li class="toctree-l1"><a class="reference internal" href="../overview/">Overview</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../project_roles/">Project Roles and Responsibilities</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../project_initialization/">Project Initialization</a>
+                    </li>
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Project Example Github Workflow and Data Sharing</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#first-time-only-clone-your-project-into-your-local-working-environment">First time only - clone your project into your local working environment</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#each-time-you-begin-working">Each time you begin working</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#make-changes-or-add-new-files-locally-and-put-them-on-github">Make changes or add new files locally and put them on GitHub</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#clean-up-your-local-repository-after-successful-merge-of-pull-request">Clean up your local repository (after successful merge of pull request)</a>
+    </li>
+    </ul>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../2019_projects/">2019 Hackweek Projects</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">Reference</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../reference/VocabAcronyms/">Vocabulary and Acronyms</a>
+                    </li>
+                    <li class="toctree-l1"><a class="reference internal" href="../../reference/conda-env/">Custom Environments in JupyterHub</a>
+                    </li>
+                </ul>
+                <p class="caption"><span class="caption-text">About</span></p>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../../about/howtocontribute/">How to Contribute</a>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../..">ICESat-2 Hackweek Learning Resources</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../..">Docs</a> &raquo;</li>
+    
+      
+        
+          <li>Projects &raquo;</li>
+        
+      
+    
+    <li>Project Example Github Workflow and Data Sharing</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/icesat-2hackweek/learning-resources/edit/master/docs/projects/example_workflow.md"
+          class="icon icon-github"> Edit on GitHub</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="basic-git-workflow-for-a-project">Basic git workflow for a project</h1>
+<p>Here we suggest a basic git workflow for working on your group project. Combined with our example project template and good communication, this workflow should help minimize conflicts on your GitHub project repo.</p>
+<h3 id="first-time-only-clone-your-project-into-your-local-working-environment">First time only - clone your project into your local working environment</h3>
+<pre><code>$ git clone https://github.com/ICESAT-2HackWeek/&lt;project-repo-name&gt;.git 
+</code></pre>
+
+<p>Where the <code>&lt;project-repo-name&gt;</code> is the unique name of your project repository.</p>
+<h3 id="each-time-you-begin-working">Each time you begin working</h3>
+<p>Navigate to your project directory:</p>
+<pre><code>$ cd &lt;project-repo-name&gt; 
+</code></pre>
+
+<p>Now, check in with your team: has there been any new work pushed to GitHub? If so, you will need to pull remote changes to your master branch:</p>
+<pre><code>$ git fetch
+$ git pull origin master:master
+</code></pre>
+
+<p>Next, checkout your working branch. Use the <code>-b</code> option if you are beginning work and need to create a new branch:</p>
+<pre><code>$ git checkout [-b] &lt;branch-name&gt;  
+</code></pre>
+
+<p>Here <code>&lt;branch-name&gt;</code> is an arbitrary name identifying this branch of work. </p>
+<h3 id="make-changes-or-add-new-files-locally-and-put-them-on-github">Make changes or add new files locally and put them on GitHub</h3>
+<pre><code>$ git add new_file #if adding a new file 
+$ git status #to see which files have been added or modified and are ready (staged) for committing
+$ git commit -am &quot;brief description of your changes (commit message)&quot;  
+$ git push origin branch_name  
+</code></pre>
+
+<p>Complete pull request and merge with master via GitHub UI. </p>
+<h3 id="clean-up-your-local-repository-after-successful-merge-of-pull-request">Clean up your local repository (after successful merge of pull request)</h3>
+<p>Switch back to the master branch. </p>
+<pre><code>$ git checkout master
+</code></pre>
+
+<p>Confirm that you are on the master branch. </p>
+<pre><code>$ git branch
+</code></pre>
+
+<p>Delete the branch containing the changes you just merged. This will delete it on GitHub (remote, if you did not click the "delete branch" button after merging). </p>
+<pre><code>$ git push origin --delete branch_name
+</code></pre>
+
+<p>You need to also delete the local version of your branch.</p>
+<pre><code>$ git branch -d branch_name
+</code></pre>
+
+<p>Finally, git pull all the latest changes (yours and others) to your local master branch. </p>
+<pre><code>$ git pull
+</code></pre>
+
+<p><em>When you are ready to do more work, checkout another branch and repeat.</em>  </p>
+<h1 id="project-data-download-storage-and-access">Project Data - download, storage, and access</h1>
+<p>Transferring and storing large amounts of data is expensive. Rather than each project team member downloading their own copy of the data, we encourage teams to have one member download the data to a shared project directory (and make sure the code to get the data is shared on the group's project repo) that everyone can access from the Hackweek's Pangeo JupyterHub.</p>
+<p>The file system can be accessed in the same manner as any other drive with a directory/file structure. The name of the file system is <code>/srv/shared/projects/</code>, and you should create a directory for your team's data (which may then also have subdirectories).</p>
+<hr />
+<p>Adapted from https://github.com/ICESAT-2HackWeek/topohack/wiki/Git-workflow-for-team</p>
+              
+            </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../2019_projects/" class="btn btn-neutral float-right" title="2019 Hackweek Projects">Next <span class="icon icon-circle-arrow-right"></span></a>
+      
+      
+        <a href="../project_initialization/" class="btn btn-neutral" title="Project Initialization"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+    
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+          <a href="https://github.com/icesat-2hackweek/learning-resources/" class="fa fa-github" style="float: left; color: #fcfcfc"> GitHub</a>
+      
+      
+        <span><a href="../project_initialization/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+        <span style="margin-left: 15px"><a href="../2019_projects/" style="color: #fcfcfc">Next &raquo;</a></span>
+      
+    </span>
+</div>
+    <script>var base_url = '../..';</script>
+    <script src="../../js/theme.js" defer></script>
+      <script src="../../search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
