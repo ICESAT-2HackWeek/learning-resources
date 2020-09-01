@@ -1,0 +1,31 @@
+name: Test MkDocs on GH action
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  conda-mkdocs:
+    name: MkDocs
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: actions/checkout@v2
+      - uses: goanpeca/setup-miniconda@v1
+        with:
+          activate-environment: foo
+          python-version: 3.7
+          channels: conda-forge
+          allow-softlinks: true
+          channel-priority: flexible
+          show-channel-urls: true
+          use-only-tar-bz2: true
+      - name: Install conda and build docs
+        shell: bash -l {0}
+        run: |
+          conda info
+          conda install -c conda-forge mkdocs mkdocs-markdownextradata-plugin
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git remote rm origin
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          mkdocs gh-deploy --config-file "${GITHUB_WORKSPACE}/mkdocs.yml" --force
